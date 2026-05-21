@@ -20,76 +20,187 @@
 > Mantiene tu preferencia por alta frecuencia de torso y un día fuerte de piernas, mejorando balance y recuperación.
 
 ### Día 1 — Push A (pecho/hombro lateral/tríceps)
-1. Press pecho en máquina convergente — 4x6–10
-2. Press inclinado con mancuernas (agarre neutro) — 3x8–12
-3. Aperturas en polea o peck deck — 3x12–15
-4. Elevación lateral en polea unilateral — 4x12–20
-5. Extensión de tríceps en polea con cuerda — 3x10–15
+1. Aperturas en maquina:
+  - 5kg x 6 repes (aproximacion)
+  - 5kg x 6 repes (aproximacion)
+  - 15kg x 8 repes (efectiva)
+  - 15kg x 8 repes (efectiva)
+  - 15kg x 8 repes (efectiva)
+
+2. Press pecho en máquina:
+  - 100kg x 6 repes (efectiva)
+  - 80kg x 8 repes (efectiva)
+  - 80kg x 8 repes (efectiva)
+  - 70kg x 8 repes (efectiva)
+
+3. Press inclinado con mancuernas:
+  - 22kg x 10 repes (efectiva)
+  - 22kg x 10 repes (efectiva)
+  - 22kg x 10 repes (efectiva)
+
+4. Elevación lateral en polea unilateral:
+  - 5kg x 15 repes (efectiva)
+  - 5kg x 15 repes (efectiva)
+  - 5kg x 15 repes (efectiva)
+  - 5kg x 15 repes (efectiva)
+
+5. Extensión de tríceps en polea con cuerda:
+  - 16kg x 15 repes (efectiva)
+  - 16g x 15 repes (efectiva)
+  - 16g x 15 repes (efectiva)
+
 6. Extensión de tríceps por encima de la cabeza en polea — 2x12–15
+  - 7g x 12 repes (efectiva)
+  - 7g x 12 repes (efectiva)
+  - 7g x 12 repes (efectiva)
+
 
 ### Día 2 — Pull A (espalda/bíceps/deltoide posterior)
-1. Jalón al pecho agarre neutro — 4x6–10
-2. Remo sentado en máquina pecho apoyado — 3x8–12
-3. Pull-over en polea — 2x12–15
-4. Apertura inversa en máquina — 3x12–20
-5. Curl de bíceps con barra EZ — 3x8–12
-6. Curl inclinado con mancuernas — 2x10–12
+1. Jalón al pecho agarre neutro:
+  - 40kg x 6 repes (aproximacion)
+  - 47kg x 6 repes (aproximacion)
+  - 68kg x 8 repes (efectiva)
+  - 68kg x 8 repes (efectiva)
+  - 68kg x 8 repes (efectiva)
+
+2. Remo sentado T maquina:
+  - 30kg x 8 repes (efectiva)
+  - 25kg x 8 repes (efectiva)
+  - 20kg x 8 repes (efectiva)
+  - 15kg x 8 repes (efectiva)
+
+3. Pull-over en polea:
+  - 18kg x 12 repes (efectiva)
+  - 18kg x 12 repes (efectiva)
+  - 18kg x 12 repes (efectiva)
+
+4. Apertura inversa en máquina:
+  - 42kg x 12 repes (efectiva)
+  - 42kg x 12 repes (efectiva)
+  - 42kg x 12 repes (efectiva)
+
+5. Curl de bíceps con barra:
+  - 26kg x 10 repes (efectiva)
+  - 26kg x 10 repes (efectiva)
+  - 26kg x 10 repes (efectiva)
+
+6. Curl inclinado con mancuernas:
+  - 10kg x 10 repes (efectiva)
+  - 26kg x 10 repes (efectiva)
+
 
 ### Día 3 — Piernas + core
-1. Sentadilla hack — 4x6–10
-2. Peso muerto rumano con mancuernas o barra guiada — 4x8–12
-3. Curl femoral acostado — 3x10–15
-4. Extensión de cuádriceps — 3x10–15
-5. Gemelos en prensa — 4x10–15
-6. Crunch en máquina — 3x10–15
-7. Rueda abdominal — 3x8–12
+1. Sentadilla hack:
+  - 40kg x 6 repes (aproximacion)
+  - 60kg x 6 repes (aproximacion)
+  - 120kg x 8 repes (efectiva)
+  - 120kg x 8 repes (efectiva)
+  - 120kg x 8 repes (efectiva)
+  - 120kg x 8 repes (efectiva)
 
-### Día 4 — Descanso activo
-- 7.000–10.000 pasos.
-- Movilidad 12–15 min (torácica + hombro + cadera).
-- Manguito rotador (ligero):
-  - Rotación externa con banda 2x20
-  - Face pulls 2x20
+2. Peso muerto rumano con mancuernas:
+  - 22kg x 10 repes (efectiva)
+  - 22kg x 10 repes (efectiva)
+  - 22kg x 10 repes (efectiva)
+  - 22kg x 10 repes (efectiva)
+
+3. Curl femoral acostado:
+  - 57kg x 10 repes (efectiva)
+  - 57kg x 10 repes (efectiva)
+  - 57kg x 10 repes (efectiva)
+
+4. Extensión de cuádriceps:
+  - 87kg x 10 repes (efectiva)
+  - 87kg x 10 repes (efectiva)
+  - 87kg x 10 repes (efectiva)
+
+5. Gemelos en prensa:
+  - 162kg x 16 repes (efectiva)
+  - 162kg x 16 repes (efectiva)
+  - 162kg x 16 repes (efectiva)
+  - 162kg x 16 repes (efectiva)
+
+6. Crunch en máquina:
+  - 42kg x 12 repes (efectiva)
+  - 42kg x 12 repes (efectiva)
+  - 42kg x 12 repes (efectiva)
+
+7. Rueda abdominal:
+  - 12 repes (efectiva)
+  - 12 repes (efectiva)
+  - 12 repes (efectiva)
+
 
 ### Día 5 — Upper B (torso mixto, énfasis técnico)
-1. Dominadas asistidas o jalón supino — 3x6–10
-2. Press de pecho máquina (ligero/moderado) — 3x8–12
-3. Remo T en máquina — 3x8–12
-4. Aperturas inclinadas mancuernas — 2x12–15
+1. Dominadas asistidas:
+  - 19kg x 6 repes (aproximacion)
+  - 12kg x 6 repes (aproximacion)
+  - 8 repes (efectiva)
+  - 8 repes (efectiva)
+  - 8 repes (efectiva)
+
+2. Press de pecho máquina:
+  - 100kg x 6 repes (efectiva)
+  - 100kg x 6 repes (efectiva)
+  - 100kg x 6 repes (efectiva)
+
+3. Remo sentado en máquina unilateral:
+  - 80kg x 8 repes (efectiva)
+  - 80kg x 8 repes (efectiva)
+  - 80kg x 8 repes (efectiva)
+
+4. Aperturas inclinadas:
+  - 15kg x 10 repes (efectiva)
+  - 15kg x 10 repes (efectiva)
+  - 15kg x 10 repes (efectiva)
+
 5. Elevación lateral mancuernas — 3x15–20
-6. Curl martillo cruzado — 2x10–12
-7. Press francés con barra EZ (si cero dolor) o polea — 2x10–12
+  - 8kg x 12 repes (efectiva)
+  - 8kg x 12 repes (efectiva)
+  - 8kg x 12 repes (efectiva)
 
-### Día 6 — Brazos + deltoide lateral/posterior
+6. Curl martillo cruzado:
+  - 12kg x 12 repes (efectiva)
+  - 12kg x 12 repes (efectiva)
+  - 12kg x 12 repes (efectiva)
+
+7. Press francés con barra EZ:
+  - 22kg x 12 repes (efectiva)
+  - 22kg x 12 repes (efectiva)
+  - 22kg x 12 repes (efectiva)
+
+
+### Día 5 — Brazos
 1. Superserie:
-   - Curl predicador EZ — 3x8–12
-   - Tríceps en polea — 3x10–15
-2. Superserie:
-   - Curl mancuernas alterno — 3x10–12
-   - Extensión unilateral tríceps polea — 3x12–15
-3. Elevación lateral en polea — 4x15–20
-4. Deltoide posterior en polea o máquina — 3x15–20
+   - Curl en polea:
+      - 23kg x 12 repes (efectiva)
+      - 23kg x 12 repes (efectiva)
+      - 23kg x 12 repes (efectiva)
 
-### Día 7 — Descanso total
+   - Tríceps en polea:
+      - 28kg x 12 repes (efectiva)
+      - 28kg x 12 repes (efectiva)
+      - 28kg x 12 repes (efectiva)
 
----
 
-## Progresión semanal (simple y efectiva)
-- Cada ejercicio tiene rango (ej.: 8–12).
-- Si completas el tope del rango en todas las series con técnica limpia y RIR 1–2, sube carga la semana siguiente:
-  - Tren superior: +1 a +2 kg
-  - Tren inferior: +2 a +5 kg
-- Si no llegas al mínimo del rango, mantén o baja 2–5% la carga.
+2. Curl predicador BZ:
+  - 26kg x 12 repes (efectiva)
+  - 26kg x 12 repes (efectiva)
+  - 26kg x 12 repes (efectiva)
 
-## Calentamiento inteligente (8–12 min)
-1. 3–5 min cardio suave.
-2. Movilidad hombro/escápula (círculos, banda).
-3. 2–3 series de aproximación del primer básico del día.
+3. Press frances BZ: 
+  - 22kg x 12 repes (efectiva)
+  - 22kg x 12 repes (efectiva)
+  - 22kg x 12 repes (efectiva)
 
-## Señales para cuidar el hombro
-- Dolor >3/10 durante movimiento: detener ese ejercicio y cambiar variante.
-- Evitar:
-  - Press militar pesado
-  - Press plano/inclinado con barra
-  - Rango forzado en fondos si molesta
-- Priorizar agarre neutro y recorrido sin dolor.
+4. Elevación lateral mancuerna:
+  - 8kg x 12 repes (efectiva)
+  - 8kg x 12 repes (efectiva)
+  - 8kg x 12 repes (efectiva)
+  - 8kg x 12 repes (efectiva)
+
+5. Deltoide posterior máquina:
+  - 42kg x 12 repes (efectiva)
+  - 42kg x 12 repes (efectiva)
+  - 42kg x 12 repes (efectiva)
+
