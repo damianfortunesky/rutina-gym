@@ -15,7 +15,7 @@
 
 ---
 
-## Split semanal recomendado (6 días / 1 descanso)
+## Split semanal
 
 > Mantiene tu preferencia por alta frecuencia de torso y un día fuerte de piernas, mejorando balance y recuperación.
 
@@ -49,7 +49,7 @@
   - 16g x 15 repes (efectiva)
   - 16g x 15 repes (efectiva)
 
-6. Extensión de tríceps por encima de la cabeza en polea — 2x12–15
+6. Extensión de tríceps por encima de la cabeza en polea:
   - 7g x 12 repes (efectiva)
   - 7g x 12 repes (efectiva)
   - 7g x 12 repes (efectiva)
@@ -131,7 +131,7 @@
   - 12 repes (efectiva)
 
 
-### Día 5 — Upper B (torso mixto, énfasis técnico)
+### Día 4 — Upper B (torso mixto, énfasis técnico)
 1. Dominadas asistidas:
   - 19kg x 6 repes (aproximacion)
   - 12kg x 6 repes (aproximacion)
@@ -170,7 +170,7 @@
   - 22kg x 12 repes (efectiva)
 
 
-### Día 5 — Brazos
+### Día 5 — Brazos (biceps/triceps/deltoide posterior)
 1. Superserie:
    - Curl en polea:
       - 23kg x 12 repes (efectiva)
@@ -181,7 +181,6 @@
       - 28kg x 12 repes (efectiva)
       - 28kg x 12 repes (efectiva)
       - 28kg x 12 repes (efectiva)
-
 
 2. Curl predicador BZ:
   - 26kg x 12 repes (efectiva)
