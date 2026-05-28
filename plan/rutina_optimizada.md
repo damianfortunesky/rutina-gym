@@ -15,14 +15,14 @@
 
 ---
 
-## Split semanal recomendado (6 días / 1 descanso)
+## Split semanal
 
 > Mantiene tu preferencia por alta frecuencia de torso y un día fuerte de piernas, mejorando balance y recuperación.
 
 ### Día 1 — Push A (pecho/hombro lateral/tríceps)
 1. Aperturas en maquina:
-  - 5kg x 6 repes (aproximacion)
-  - 5kg x 6 repes (aproximacion)
+  - 5kg x 6 repes (aproximación)
+  - 5kg x 6 repes (aproximación)
   - 15kg x 8 repes (efectiva)
   - 15kg x 8 repes (efectiva)
   - 15kg x 8 repes (efectiva)
@@ -46,19 +46,19 @@
 
 5. Extensión de tríceps en polea con cuerda:
   - 16kg x 15 repes (efectiva)
-  - 16g x 15 repes (efectiva)
-  - 16g x 15 repes (efectiva)
+  - 16kg x 15 repes (efectiva)
+  - 16kg x 15 repes (efectiva)
 
-6. Extensión de tríceps por encima de la cabeza en polea — 2x12–15
-  - 7g x 12 repes (efectiva)
-  - 7g x 12 repes (efectiva)
-  - 7g x 12 repes (efectiva)
+6. Extensión de tríceps por encima de la cabeza en polea:
+  - 7kg x 12 repes (efectiva)
+  - 7kg x 12 repes (efectiva)
+  - 7kg x 12 repes (efectiva)
 
 
 ### Día 2 — Pull A (espalda/bíceps/deltoide posterior)
 1. Jalón al pecho agarre neutro:
-  - 40kg x 6 repes (aproximacion)
-  - 47kg x 6 repes (aproximacion)
+  - 40kg x 6 repes (aproximación)
+  - 47kg x 6 repes (aproximación)
   - 68kg x 8 repes (efectiva)
   - 68kg x 8 repes (efectiva)
   - 68kg x 8 repes (efectiva)
@@ -67,7 +67,6 @@
   - 30kg x 8 repes (efectiva)
   - 25kg x 8 repes (efectiva)
   - 20kg x 8 repes (efectiva)
-  - 15kg x 8 repes (efectiva)
 
 3. Pull-over en polea:
   - 18kg x 12 repes (efectiva)
@@ -91,8 +90,8 @@
 
 ### Día 3 — Piernas + core
 1. Sentadilla hack:
-  - 40kg x 6 repes (aproximacion)
-  - 60kg x 6 repes (aproximacion)
+  - 40kg x 6 repes (aproximación)
+  - 60kg x 6 repes (aproximación)
   - 120kg x 8 repes (efectiva)
   - 120kg x 8 repes (efectiva)
   - 120kg x 8 repes (efectiva)
@@ -131,10 +130,10 @@
   - 12 repes (efectiva)
 
 
-### Día 5 — Upper B (torso mixto, énfasis técnico)
+### Día 4 — Upper B (torso mixto, énfasis técnico)
 1. Dominadas asistidas:
-  - 19kg x 6 repes (aproximacion)
-  - 12kg x 6 repes (aproximacion)
+  - 19kg x 6 repes (aproximación)
+  - 12kg x 6 repes (aproximación)
   - 8 repes (efectiva)
   - 8 repes (efectiva)
   - 8 repes (efectiva)
@@ -154,7 +153,7 @@
   - 15kg x 10 repes (efectiva)
   - 15kg x 10 repes (efectiva)
 
-5. Elevación lateral mancuernas — 3x15–20
+5. Elevación lateral mancuernas:
   - 8kg x 12 repes (efectiva)
   - 8kg x 12 repes (efectiva)
   - 8kg x 12 repes (efectiva)
@@ -170,7 +169,7 @@
   - 22kg x 12 repes (efectiva)
 
 
-### Día 5 — Brazos
+### Día 5 — Brazos (biceps/triceps/deltoide posterior)
 1. Superserie:
    - Curl en polea:
       - 23kg x 12 repes (efectiva)
@@ -181,7 +180,6 @@
       - 28kg x 12 repes (efectiva)
       - 28kg x 12 repes (efectiva)
       - 28kg x 12 repes (efectiva)
-
 
 2. Curl predicador BZ:
   - 26kg x 12 repes (efectiva)
