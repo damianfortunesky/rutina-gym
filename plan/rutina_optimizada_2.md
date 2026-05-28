@@ -15,7 +15,7 @@
 
 ---
 
-## Split semanal recomendado (6 días / 1 descanso)
+## Split semanal recomendado (5 días / 1 descanso)
 
 > Mantiene alta frecuencia de torso y dos días fuertes de pierna, pero reduce volumen innecesario para mejorar recuperación y progresión.
 
