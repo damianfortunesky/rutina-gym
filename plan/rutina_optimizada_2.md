@@ -42,7 +42,7 @@
   - 16kg x 15 repes (efectiva)
   - 16kg x 15 repes (efectiva)
 
-5. Deltoide Lateral con polea
+5. Deltoide lateral con polea
   - 3.7kg x 12 repes (efectiva)
   - 3.7kg x 12 repes (efectiva)
   - 3.7kg x 12 repes (efectiva)
@@ -92,7 +92,7 @@
   - 10kg x 10 repes (efectiva)
   - 10kg x 10 repes (efectiva)
   
-7. Rueda Abdominal
+7. Rueda abdominal
   - 00kg x 15 repes (efectiva)
   - 00kg x 15 repes (efectiva)
   - 00kg x 15 repes (efectiva)
@@ -128,7 +128,7 @@
   - 162kg x 16 repes (efectiva)
   - 162kg x 16 repes (efectiva)
 
-6. Deltoide Lateral con mancuerna
+6. Deltoide lateral con mancuerna
   - 8kg x 12 repes (efectiva)
   - 8kg x 12 repes (efectiva)
   - 8kg x 12 repes (efectiva)
@@ -215,7 +215,7 @@
   - 162kg x 16 repes (efectiva)
   - 162kg x 16 repes (efectiva)
 
-6. Deltoide Lateral en polea
+6. Deltoide lateral en polea
   - 3.7kg x 12 repes (efectiva)
   - 3.7kg x 12 repes (efectiva)
   - 3.7kg x 12 repes (efectiva)
