@@ -42,7 +42,7 @@
   - 16kg x 15 repes (efectiva)
   - 16kg x 15 repes (efectiva)
 
-5. Laterales con polea
+5. Deltoide Lateral con polea
   - 3.7kg x 12 repes (efectiva)
   - 3.7kg x 12 repes (efectiva)
   - 3.7kg x 12 repes (efectiva)
@@ -91,6 +91,11 @@
   - 10kg x 10 repes (efectiva)
   - 10kg x 10 repes (efectiva)
   - 10kg x 10 repes (efectiva)
+  
+7. Rueda Abdominal
+  - 00kg x 15 repes (efectiva)
+  - 00kg x 15 repes (efectiva)
+  - 00kg x 15 repes (efectiva)
 
 ### Día 3 — Piernas A
 1. Sentadilla hack:
@@ -123,15 +128,16 @@
   - 162kg x 16 repes (efectiva)
   - 162kg x 16 repes (efectiva)
 
-6. Deltoide posterior en peck deck
+6. Deltoide Lateral con mancuerna
+  - 8kg x 12 repes (efectiva)
+  - 8kg x 12 repes (efectiva)
+  - 8kg x 12 repes (efectiva)
+
+7. Deltoide posterior en peck deck
   - 40kg x 12 repes (efectiva)
   - 40kg x 12 repes (efectiva)
   - 40kg x 12 repes (efectiva)
 
-7. Abdominales en maquina (cruck):
-  - 42kg x 12 repes (efectiva)
-  - 42kg x 12 repes (efectiva)
-  - 42kg x 12 repes (efectiva)
 
 ### Día 4 — Descanso
 
@@ -209,12 +215,12 @@
   - 162kg x 16 repes (efectiva)
   - 162kg x 16 repes (efectiva)
 
-6. Deltoide posterior en peck deck
-  - 40kg x 12 repes (efectiva)
-  - 40kg x 12 repes (efectiva)
-  - 40kg x 12 repes (efectiva)
+6. Deltoide Lateral en polea
+  - 3.7kg x 12 repes (efectiva)
+  - 3.7kg x 12 repes (efectiva)
+  - 3.7kg x 12 repes (efectiva)
 
-7. Abdominales en maquina (cruck):
-  - 42kg x 12 repes (efectiva)
-  - 42kg x 12 repes (efectiva)
-  - 42kg x 12 repes (efectiva)
+7. Deltoide posterior en peck deck
+  - 40kg x 12 repes (efectiva)
+  - 40kg x 12 repes (efectiva)
+  - 40kg x 12 repes (efectiva)
