@@ -1,13 +1,16 @@
-# Plan de mejora: entrenamiento + alimentación
+# Plan de mejora: entrenamiento + alimentacion
 
-Este directorio contiene una propuesta práctica para tu objetivo de ganar masa muscular limpia usando tu contexto actual.
+Este directorio contiene una propuesta practica para tu objetivo de ganar masa muscular limpia usando tu contexto actual y la RMN de hombro derecho.
 
 ## Archivos
-- `rutina_optimizada.md`: nueva estructura de entrenamiento (split, progresión, cuidado del hombro).
-- `dieta_masa_limpia.md`: plan de alimentación simple y ajustable con tus alimentos favoritos.
 
-## Cómo usar el plan
+- `rutina.md`: estructura de entrenamiento optimizada segun la RMN (split, progresion y cuidado del hombro).
+- `dieta_masa_limpia.md`: plan de alimentacion simple y ajustable con tus alimentos favoritos.
+
+## Como usar el plan
+
 1. Implementa la rutina durante 8 semanas.
-2. Pésate 3 veces por semana al despertar y usa el promedio semanal.
-3. Ajusta calorías cada 14 días según reglas del plan nutricional.
-4. Registra cargas/repeticiones para aplicar progresión.
+2. Pesate 3 veces por semana al despertar y usa el promedio semanal.
+3. Ajusta calorias cada 14 dias segun reglas del plan nutricional.
+4. Registra cargas/repeticiones para aplicar progresion.
+5. En ejercicios de torso, manten dolor de hombro en 0-2/10 y sin empeorar al dia siguiente.
