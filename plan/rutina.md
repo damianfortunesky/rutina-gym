@@ -21,79 +21,88 @@
 
 ### Día 1 — Push
 1. Press pecho en máquina:
-  - 100kg x 8 repes (efectiva)
-  - 80kg x 10 repes (efectiva)
-  - 70kg x 12 repes (efectiva)
-  - 60kg x 14 repes (efectiva opcional si mantienes 1 RIR)
+  - 40kg x 5 repes (aproximacion)
+  - 40kg x 5 repes (aproximacion)
+  - 100kg x 6-8 repes (efectiva)
+  - 80kg x 8-10 repes (efectiva)
+  - 70kg x 10-12 repes (efectiva)
 
 2. Press inclinado con mancuernas:
-  - 20kg x 10-12 repes (efectiva)
-  - 20kg x 10-12 repes (efectiva)
-  - 20kg x 10-12 repes (efectiva)
+  - 20kg x 8-12 repes (efectiva)
+  - 20kg x 8-12 repes (efectiva)
+  - 20kg x 8-12 repes (efectiva)
 
 3. Aperturas en maquina:
   - 5kg x 8 repes (aproximacion)
-  - 15kg x 10-12 repes (efectiva)
-  - 15kg x 10-12 repes (efectiva)
-  - 15kg x 10-12 repes (efectiva opcional)
+  - 15kg x 8-12 repes (efectiva)
+  - 15kg x 8-12 repes (efectiva)
 
 4. Extensión de tríceps en polea con cuerda:
-  - 18kg x 12-15 repes (efectiva)
-  - 18kg x 12-15 repes (efectiva)
-  - 16kg x 12-15 repes (efectiva)
+  - 21kg x 12-15 repes (efectiva)
+  - 21kg x 12-15 repes (efectiva)
+  - 21kg x 12-15 repes (efectiva)
+  - 21kg x 12-15 repes (efectiva)
 
-5. Deltoide lateral con polea:
+5. Deltoide lateral con polea unilateral:
+  - 3.7kg x 12-20 repes (efectiva)
   - 3.7kg x 12-20 repes (efectiva)
   - 3.7kg x 12-20 repes (efectiva)
   - 3.7kg x 12-20 repes (efectiva)
 
 6. Deltoide posterior en peck deck:
-  - 40kg x 12-20 repes (efectiva)
-  - 40kg x 12-20 repes (efectiva)
+  - 35kg x 12-20 repes (efectiva)
+  - 335kg x 12-20 repes (efectiva)
+  - 335kg x 12-20 repes (efectiva)
+  - 335kg x 12-20 repes (efectiva)
 
 7. Abdominales en maquina (crunch):
-  - 42kg x 10-15 repes (efectiva)
-  - 42kg x 10-15 repes (efectiva)
-  - 42kg x 10-15 repes (efectiva)
+  - 50kg x 10-15 repes (efectiva)
+  - 50kg x 10-15 repes (efectiva)
+  - 50kg x 10-15 repes (efectiva)
 
 
 ### Día 2 — Pull
 1. Jalón al pecho agarre ancho:
-  - 40kg x 6 repes (aproximacion)
-  - 47kg x 6 repes (aproximacion)
+  - 40kg x 5 repes (aproximacion)
+  - 47kg x 5 repes (aproximacion)
   - 75kg x 6-8 repes (efectiva)
   - 68kg x 8-10 repes (efectiva)
   - 61kg x 10-12 repes (efectiva)
-  - 54kg x 12-14 repes (efectiva opcional si mantienes técnica)
 
 2. Remo sentado T maquina:
-  - 30kg x 8-10 repes (efectiva)
+  - 30kg x 6-8 repes (efectiva)
   - 25kg x 8-10 repes (efectiva)
   - 20kg x 10-12 repes (efectiva)
 
 3. Pull-over en polea:
-  - 18kg x 12-15 repes (efectiva)
-  - 18kg x 12-15 repes (efectiva)
+  - 21kg x 12-15 repes (efectiva)
+  - 21kg x 12-15 repes (efectiva)
+  - 21kg x 12-15 repes (efectiva)
 
-4. Curl de bíceps con barra:
-  - 26kg x 8-10 repes (efectiva)
-  - 26kg x 8-10 repes (efectiva)
-  - 26kg x 8-10 repes (efectiva)
+4. Curl inclinado con mancuernas o curl martillo:
+  - 10kg x 10-12 repes (efectiva)
+  - 10kg x 10-12 repes (efectiva)
+  - 10kg x 10-12 repes (efectiva)
 
-5. Curl inclinado con mancuernas o curl martillo:
-  - 10kg x 10-12 repes (efectiva)
-  - 10kg x 10-12 repes (efectiva)
-  - 10kg x 10-12 repes (efectiva)
+5. Curl martillo con mancuernas:
+  - 12kg x 10-12 repes (efectiva)
+  - 12kg x 10-12 repes (efectiva)
+  - 12kg x 10-12 repes (efectiva)
 
 6. Rueda abdominal:
   - Peso corporal x 10-15 repes (efectiva)
   - Peso corporal x 10-15 repes (efectiva)
   - Peso corporal x 10-15 repes (efectiva)
 
+7. Giro en pie:
+  - 11kg x 10-12 repes (efectiva)
+  - 11kg x 10-12 repes (efectiva)
+  - 11kg x 10-12 repes (efectiva)
+
 ### Día 3 — Piernas A + hombro
 1. Sentadilla hack:
-  - 40kg x 6 repes (aproximacion)
-  - 60kg x 6 repes (aproximacion)
+  - 40kg x 5 repes (aproximacion)
+  - 60kg x 5 repes (aproximacion)
   - 120kg x 8 repes (efectiva)
   - 120kg x 8 repes (efectiva)
   - 120kg x 8 repes (efectiva)
@@ -124,11 +133,12 @@
   - 8kg x 12-20 repes (efectiva)
   - 8kg x 12-20 repes (efectiva)
   - 8kg x 12-20 repes (efectiva)
+  - 8kg x 12-20 repes (efectiva)
 
 7. Deltoide posterior en peck deck (opcional):
-  - 40kg x 12-20 repes (efectiva)
-  - 40kg x 12-20 repes (efectiva)
-
+  - 35kg x 12-20 repes (efectiva)
+  - 35kg x 12-20 repes (efectiva)
+  - 35kg x 12-20 repes (efectiva)
 
 ### Día 4 — Descanso
 
@@ -140,44 +150,51 @@
   - 8-10 repes (efectiva)
   - 8-10 repes (efectiva)
 
-2. Press de pecho máquina:
-  - 100kg x 8 repes (efectiva)
-  - 80kg x 10 repes (efectiva)
-  - 70kg x 12 repes (efectiva)
+4. Aperturas en polea:
+  - 11kg x 10-15 repes (efectiva) (polea alta)
+  - 11kg x 10-15 repes (efectiva) (polea alta)
+  - 8kg x 10-15 repes (efectiva) (polea media)
+  - 8kg x 10-15 repes (efectiva) (polea media)
+  - 8kg x 10-12 repes (efectiva) (polea baja)
+  - 8kg x 10-12 repes (efectiva) (polea baja)
 
 3. Remo sentado en máquina unilateral:
   - 80kg x 8-10 repes (efectiva)
-  - 70kg x 8-10 repes (efectiva)
-  - 60kg x 10-12 repes (efectiva)
+  - 70kg x 10-12 repes (efectiva)
+  - 60kg x 12-14 repes (efectiva)
 
-4. Aperturas inclinadas:
-  - 15kg x 10-15 repes (efectiva)
-  - 15kg x 10-15 repes (efectiva)
+2. Press de pecho máquina:
+  - 100kg x 6-8 repes (efectiva)
+  - 80kg x 8-10 repes (efectiva)
+
 
 5. Pullover en maquina:
-  - 40kg x 12-15 repes (efectiva)
-  - 40kg x 12-15 repes (efectiva)
+  - 60kg x 8-10 repes (efectiva)
+  - 50kg x 10-12 repes (efectiva)
+  - 40kg x 12-14 repes (efectiva)
 
-6. Curl martillo biceps polea:
-  - 23kg x 10-12 repes (efectiva)
-  - 23kg x 10-12 repes (efectiva)
-  - 23kg x 10-12 repes (efectiva opcional)
+6. Curl con barra:
+  - 26kg x 10-12 repes (efectiva)
+  - 26kg x 10-12 repes (efectiva)
+  - 26kg x 10-12 repes (efectiva)
+  - 26kg x 10-12 repes (efectiva)
 
 7. Extensión triceps polea:
-  - 23kg x 10-15 repes (efectiva)
-  - 23kg x 10-15 repes (efectiva)
-  - 23kg x 10-15 repes (efectiva)
+  - 18kg x 10-15 repes (efectiva)
+  - 18kg x 10-15 repes (efectiva)
+  - 18kg x 10-15 repes (efectiva)
+  - 18kg x 10-15 repes (efectiva)
 
 
 ### Día 6 — Piernas B + hombro
 
 1. Prensa:
-  - 80kg x 6 repes (aproximacion)
-  - 120kg x 6 repes (aproximacion)
-  - 300kg x 8 repes (efectiva)
-  - 280kg x 10 repes (efectiva)
-  - 260kg x 12 repes (efectiva)
-  - 240kg x 14 repes (efectiva opcional si mantienes 1-2 RIR)
+  - 80kg x 5 repes (aproximacion)
+  - 120kg x 5 repes (aproximacion)
+  - 300kg x 6-8 repes (efectiva)
+  - 300kg x 6-8 repes (efectiva)
+  - 260kg x 8-10 repes (efectiva)
+  - 260kg x 8-10 repes (efectiva)
 
 2. Peso muerto rumano con mancuernas:
   - 20kg x 10 repes (efectiva)
@@ -185,6 +202,7 @@
   - 20kg x 10 repes (efectiva)
 
 3. Curl femoral sentado:
+  - 42kg x 12-15 repes (efectiva)
   - 42kg x 12-15 repes (efectiva)
   - 42kg x 12-15 repes (efectiva)
   - 42kg x 12-15 repes (efectiva)
@@ -200,32 +218,33 @@
   - 162kg x 12-20 repes (efectiva)
   - 162kg x 12-20 repes (efectiva)
 
-6. Deltoide lateral en polea:
-  - 3.7kg x 12-20 repes (efectiva)
-  - 3.7kg x 12-20 repes (efectiva)
-  - 3.7kg x 12-20 repes (efectiva)
+6. Deltoide lateral con mancuernas:
+  - 8kg x 12-20 repes (efectiva)
+  - 8kg x 12-20 repes (efectiva)
+  - 8kg x 12-20 repes (efectiva)
+  - 8kg x 12-20 repes (efectiva)
 
 7. Deltoide posterior en peck deck (opcional si recuperas bien):
-  - 40kg x 12-20 repes (efectiva)
-  - 40kg x 12-20 repes (efectiva)
-
+  - 35kg x 12-20 repes (efectiva)
+  - 35kg x 12-20 repes (efectiva)
+  - 35kg x 12-20 repes (efectiva)
 ---
 
-## Volumen semanal objetivo
+## Objetivo Volumen semanal (Sujeto a correccion)
 
 | Grupo muscular | Series directas aproximadas | Evaluación |
 |---|---:|---|
-| Pecho | 14-16 | Óptimo-alto; no subir más si molesta el hombro |
-| Espalda/lats | 16-18 | Alto pero sostenible con buena técnica |
-| Bíceps | 8-9 | Más recuperable que 14 series directas |
-| Tríceps | 6-9 | Correcto sumando el trabajo indirecto de press |
-| Cuádriceps | 10-12 | Correcto para hipertrofia |
-| Femoral/isquios | 12 | Muy buen rango |
-| Glúteo | Moderado | Si es prioridad, usar hip thrust en lugar de aductor |
-| Gemelos | 8 | Correcto; subir a 10-12 si no progresan |
+| Pecho | 16 | 
+| Espalda/lats | 18 | 
+| Bíceps | 9 | 
+| Tríceps | 9 | 
+| Cuádriceps | 12 | 
+| Femoral/isquios | 12 |
+| Glúteo | Moderado | No es prioridad, no usar hip thrust |
+| Gemelos | 12 | Correcto |
 | Abdomen/core | 6 | Correcto |
-| Deltoide lateral | 9 | Óptimo para hombro estético |
-| Deltoide posterior | 4-6 directas + remos | Suficiente y más recuperable |
+| Deltoide lateral | 9 |
+| Deltoide posterior | 6 |
 
 ## Notas de ejecución
 
