@@ -180,6 +180,73 @@ Hacer antes de cada dia upper. En piernas, hacerla solo si el hombro viene sensi
 9. Rotacion externa con banda
    - 2 x 15-20 por lado
 
+## Registro de pesos y repeticiones (valores genericos para corregir)
+
+Los pesos siguientes son ejemplos editables, expresados en kg. Reemplazalos por los valores realmente utilizados. En ejercicios unilaterales, cada dato corresponde a cada lado. `Aprox.` indica `peso x repeticiones` y no se contabiliza como serie efectiva.
+
+### Dia 1 - Upper A
+
+| Ejercicio | Series | Pesos por serie (kg) | Repeticiones por serie | Aprox. (kg x reps) |
+|---|---:|---|---|---|
+| Jalon al pecho neutro o semi-prono | 3 | 35 / 35 / 35 | 12 / 10 / 9 | 20 x 10; 30 x 6 |
+| Remo sentado con pecho apoyado | 3 | 30 / 30 / 30 | 12 / 10 / 9 | 20 x 8 |
+| Remo unilateral en polea | 3 | 12,5 / 12,5 / 12,5 | 12 / 11 / 10 | 7,5 x 10 |
+| Pullover en polea | 2 | 15 / 15 | 15 / 13 | 10 x 12 |
+| Apertura inversa en maquina | 3 | 20 / 20 / 20 | 20 / 18 / 16 | 10 x 15 |
+| Curl de biceps en polea | 3 | 15 / 15 / 15 | 15 / 13 / 12 | 10 x 10 |
+| Curl martillo con mancuernas | 2 | 8 / 8 | 12 / 10 | 5 x 10 |
+
+### Dia 2 - Upper B
+
+| Ejercicio | Series | Pesos por serie (kg) | Repeticiones por serie | Aprox. (kg x reps) |
+|---|---:|---|---|---|
+| Apertura en polea de abajo al centro | 3 | 7,5 / 7,5 / 7,5 | 15 / 14 / 12 | 5 x 12 |
+| Peck deck o apertura sentada | 3 | 20 / 20 / 20 | 15 / 14 / 12 | 10 x 12 |
+| Flexiones inclinadas | 3 | Peso corporal / Peso corporal / Peso corporal | 15 / 12 / 10 | Pared x 10 |
+| Extension de triceps con cuerda | 3 | 15 / 15 / 15 | 15 / 13 / 12 | 10 x 12 |
+| Extension de triceps unilateral cruzada | 3 | 5 / 5 / 5 | 15 / 14 / 12 | 2,5 x 12 |
+| Elevacion lateral unilateral en polea | 3 | 2,5 / 2,5 / 2,5 | 20 / 18 / 16 | 1,25 x 15 |
+| Rotacion externa con banda o polea | 2 | 2,5 / 2,5 | 20 / 18 | 1,25 x 15 |
+
+### Dia 3 - Piernas + core
+
+| Ejercicio | Series | Pesos por serie (kg) | Repeticiones por serie | Aprox. (kg x reps) |
+|---|---:|---|---|---|
+| Sentadilla hack | 4 | 40 / 40 / 40 / 40 | 10 / 10 / 9 / 8 | 20 x 8; 30 x 5 |
+| Prensa | 3 | 80 / 80 / 80 | 12 / 11 / 10 | 40 x 10; 60 x 6 |
+| Peso muerto rumano con mancuernas | 3 | 20 / 20 / 20 | 12 / 10 / 9 | 10 x 10; 15 x 6 |
+| Curl femoral acostado o sentado | 3 | 25 / 25 / 25 | 15 / 13 / 12 | 15 x 12 |
+| Extension de cuadriceps | 3 | 25 / 25 / 25 | 15 / 13 / 12 | 15 x 12 |
+| Gemelos en prensa | 4 | 60 / 60 / 60 / 60 | 20 / 18 / 16 / 15 | 40 x 15 |
+| Crunch en maquina | 3 | 20 / 20 / 20 | 15 / 13 / 12 | 10 x 12 |
+
+### Dia 5 - Upper C
+
+| Ejercicio | Series | Pesos por serie (kg) | Repeticiones por serie | Aprox. (kg x reps) |
+|---|---:|---|---|---|
+| Remo T con pecho apoyado | 3 | 25 / 25 / 25 | 12 / 10 / 9 | 15 x 8 |
+| Jalon al pecho neutro | 3 | 30 / 30 / 30 | 12 / 11 / 10 | 20 x 10 |
+| Remo sentado unilateral | 2 | 12,5 / 12,5 | 12 / 10 | 7,5 x 10 |
+| Press de pecho en maquina neutro | 2 | 15 / 15 | 12 / 10 | 5 x 12; 10 x 8 |
+| Apertura en polea o peck deck | 2 | 7,5 / 7,5 | 15 / 13 | 5 x 12 |
+| Curl predicador o en polea | 3 | 15 / 15 / 15 | 12 / 11 / 10 | 10 x 10 |
+| Triceps con barra V o cuerda | 3 | 15 / 15 / 15 | 15 / 13 / 12 | 10 x 12 |
+| Face pull liviano | 2 | 10 / 10 | 20 / 18 | 5 x 15 |
+
+### Dia 6 - Upper D
+
+| Ejercicio | Series | Pesos por serie (kg) | Repeticiones por serie | Aprox. (kg x reps) |
+|---|---:|---|---|---|
+| Curl con barra W o polea | 3 | 15 / 15 / 15 | 12 / 10 / 9 | 10 x 10 |
+| Curl inclinado o en polea | 2 | 8 / 8 | 12 / 10 | 5 x 10 |
+| Curl martillo cruzado | 2 | 8 / 8 | 12 / 10 | 5 x 10 |
+| Extension de triceps con cuerda | 3 | 15 / 15 / 15 | 15 / 14 / 12 | 10 x 12 |
+| Extension de triceps unilateral | 3 | 5 / 5 / 5 | 15 / 13 / 12 | 2,5 x 12 |
+| Deltoide posterior en maquina | 3 | 20 / 20 / 20 | 20 / 18 / 16 | 10 x 15 |
+| Elevacion lateral liviana | 2 | 3 / 3 | 20 / 17 | 2 x 15 |
+| Serratus wall slide o scapular push-up | 2 | Peso corporal / Peso corporal | 12 / 10 | Pared x 10 |
+| Rotacion externa con banda | 2 | Banda liviana / Banda liviana | 20 / 18 | Banda extra liviana x 15 |
+
 ## Volumen semanal aproximado
 
 | Grupo | Series directas | Enfoque durante rehabilitacion |
