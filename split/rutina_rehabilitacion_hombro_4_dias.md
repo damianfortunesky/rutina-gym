@@ -47,7 +47,7 @@ Todo debe ser liviano, sin fatiga y sin dolor. Si tu profesional indico otra ent
 
 | Ejercicio | Series x repeticiones | Grupo contabilizado | Indicacion |
 |---|---:|---|---|
-| Jalon al pecho neutro o semiprono | 3 x 8-12 | Dorsales 3 | Sin balanceo ni recorrido tras nuca. |
+| Jalon al pecho ancho | 3 x 8-12 | Dorsales 3 | Sin balanceo ni recorrido tras nuca. |
 | Remo con pecho apoyado, codos a 45-60 grados | 3 x 8-12 | Espalda alta 3 | Pausa de un segundo atras. |
 | Remo unilateral en polea, codo junto al torso | 2 x 10-15 por lado | Dorsales 2 | No dejes caer el hombro al estirar. |
 | Apertura en polea, recorrido corto-medio | 3 x 12-15 | Pecho 3 | Sin estiramiento profundo. |
