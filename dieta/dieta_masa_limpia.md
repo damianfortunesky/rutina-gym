@@ -2,38 +2,38 @@
 
 ## Punto de partida
 
-Plan para 29 anos, 70 kg y 170 cm, con futbol los lunes, cuatro sesiones de gimnasio y objetivo de ganar musculo minimizando una ganancia innecesaria de grasa.
+Plan para 29 años, 70 kg y 170 cm, con fútbol los lunes, cuatro sesiones de gimnasio y objetivo de ganar músculo minimizando una ganancia innecesaria de grasa.
 
-Las calorias reales de mantenimiento no se pueden conocer solo con una formula. Usa **2.650 kcal diarias de promedio** como prueba inicial durante 14 dias y ajusta segun el promedio de peso, cintura, rendimiento y hambre.
+Las calorías reales de mantenimiento no se pueden conocer solo con una fórmula. Usa **2.650 kcal diarias de promedio** como prueba inicial durante 14 días y ajusta según el promedio de peso, cintura, rendimiento y hambre.
 
 | Objetivo diario inicial | Cantidad |
 |---|---:|
-| Calorias | 2.600-2.700 kcal |
-| Proteina | 140-155 g |
+| Calorías | 2.600-2.700 kcal |
+| Proteína | 140-155 g |
 | Grasas | 70-80 g |
 | Carbohidratos | 330-360 g |
 | Fibra | 25-35 g |
-| Agua | 2,5-3,5 L, mas lo perdido al transpirar |
+| Agua | 2,5-3,5 L, más lo perdido al transpirar |
 
-La proteina equivale aproximadamente a 2,0-2,2 g/kg. Mas proteina no reemplaza las calorias, los carbohidratos ni una progresion adecuada en el gimnasio.
+La proteína equivale aproximadamente a 2,0-2,2 g/kg. más proteína no reemplaza las calorías, los carbohidratos ni una progresión adecuada en el gimnasio.
 
 > Los valores de los alimentos son aproximados. Pesa arroz y carnes como se indique y usa la etiqueta de las marcas que compras para obtener el total real.
 
-## Distribucion semanal
+## Distribución semanal
 
-| Dia | Actividad | Objetivo |
+| Día | Actividad | Objetivo |
 |---|---|---|
-| Lunes | Futbol | 2.700-2.800 kcal; agrega carbohidratos alrededor del partido |
+| Lunes | Fútbol | 2.700-2.800 kcal; agrega carbohidratos alrededor del partido |
 | Martes | Upper A | 2.650-2.700 kcal |
-| Miercoles | Descanso | 2.500-2.600 kcal |
+| Miércoles | Descanso | 2.500-2.600 kcal |
 | Jueves | Upper B | 2.650-2.700 kcal |
 | Viernes | Descanso | 2.500-2.600 kcal |
-| Sabado | Piernas | 2.700-2.800 kcal |
+| Sábado | Piernas | 2.700-2.800 kcal |
 | Domingo | Upper C | 2.650-2.700 kcal |
 
-No es obligatorio ciclar calorias. Si preferis repetir las mismas comidas, usa 2.650 kcal todos los dias. Importa mas el promedio semanal y la adherencia que una diferencia pequena entre dias.
+No es obligatorio ciclar calorías. Si preferís repetir las mismas comidas, usa 2.650 kcal todos los días. Importa más el promedio semanal y la adherencia que una diferencia pequeña entre días.
 
-## Dia de entrenamiento: plantilla de cuatro comidas
+## Día de entrenamiento: plantilla de cuatro comidas
 
 Las cantidades son un inicio y respetan tus horarios y alimentos preferidos.
 
@@ -45,22 +45,22 @@ Las cantidades son un inicio y respetan tus horarios y alimentos preferidos.
 - 30 g de queso.
 - 1 naranja o manzana.
 
-Aproximado: **750-850 kcal, 35-45 g de proteina**.
+Aproximado: **750-850 kcal, 35-45 g de proteína**.
 
 ### 17:00 - Preentreno
 
 Tomala entre 60 y 150 minutos antes de entrenar:
 
-- 1 barra proteica con aproximadamente 20 g de proteina.
+- 1 barra proteica con aproximadamente 20 g de proteína.
 - 1 banana.
 - 60-80 g de pan.
-- Agua y sal normal en las comidas, salvo contraindicacion medica.
+- Agua y sal normal en las comidas, salvo contraindicación médica.
 
-Aproximado: **450-550 kcal, 25-30 g de proteina**. Si entrenas inmediatamente despues y esta comida resulta pesada, quita el pan y trasladalo a la cena.
+Aproximado: **450-550 kcal, 25-30 g de proteína**. Si entrenas inmediatamente después y esta comida resulta pesada, quita el pan y trasladalo a la cena.
 
 ### 21:00 - Postentreno y cena
 
-Elegi una proteina:
+Elegi una proteína:
 
 - 220-250 g de pollo, pescado o carne picada magra, **peso crudo**; o
 - 250-300 g de pescado si es una variedad muy magra.
@@ -68,21 +68,21 @@ Elegi una proteina:
 Acompana con:
 
 - 120-140 g de arroz **peso seco**, o 500-600 g de papa/batata **peso cocido**;
-- 250-350 g de cebolla, zanahoria, morron, zapallo y/o ajo;
+- 250-350 g de cebolla, zanahoria, morrón, zapallo y/o ajo;
 - 10 g de aceite para cocinar o condimentar.
 
-Aproximado: **850-1.050 kcal, 50-65 g de proteina**, segun la carne elegida.
+Aproximado: **850-1.050 kcal, 50-65 g de proteína**, según la carne elegida.
 
 ### 23:00 - Comida 4
 
-- 200-250 g de yogur alto en proteina o una segunda barra proteica.
+- 200-250 g de yogur alto en proteína o una segunda barra proteica.
 - Gelatina.
 - 1 fruta.
-- 40-60 g de pan si faltan calorias o carbohidratos.
+- 40-60 g de pan si faltan calorías o carbohidratos.
 
-Aproximado: **300-450 kcal, 20-30 g de proteina**.
+Aproximado: **300-450 kcal, 20-30 g de proteína**.
 
-### Como cerrar el total
+### Cómo cerrar el total
 
 Los productos y cortes cambian mucho. Carga una vez tus marcas habituales y ajusta principalmente con:
 
@@ -91,11 +91,11 @@ Los productos y cortes cambian mucho. Carga una vez tus marcas habituales y ajus
 - **+/- 10 g de aceite:** aproximadamente +/- 90 kcal.
 - **Una fruta adicional:** aproximadamente 60-110 kcal.
 
-No ajustes con mas carne si ya alcanzaste 140-155 g de proteina; usa carbohidratos o una pequena cantidad de grasa.
+No ajustes con más carne si ya alcanzaste 140-155 g de proteína; usa carbohidratos o una pequeña cantidad de grasa.
 
-## Dia de descanso
+## Día de descanso
 
-Conserva las cuatro comidas y toda la proteina. Para quedar cerca de 2.500-2.600 kcal, elimina una sola porcion de carbohidratos respecto del dia de entrenamiento:
+Conserva las cuatro comidas y toda la proteína. Para quedar cerca de 2.500-2.600 kcal, elimina una sola porción de carbohidratos respecto del día de entrenamiento:
 
 - quita 40-60 g de pan; o
 - reduce 25-30 g de arroz seco; o
@@ -103,48 +103,48 @@ Conserva las cuatro comidas y toda la proteina. Para quedar cerca de 2.500-2.600
 
 No reduzcas huevos, carne, pollo, pescado o yogur cada vez que descansas.
 
-## Futbol y dia de piernas
+## Fútbol y día de piernas
 
-En lunes y sabado prioriza carbohidratos:
+En lunes y sábado prioriza carbohidratos:
 
-- 2-3 horas antes: 60-100 g de carbohidratos, 25-35 g de proteina, grasa moderada-baja;
-- despues: 60-100 g de carbohidratos y 30-45 g de proteina;
-- agrega 500-750 ml de agua por hora de actividad como punto de partida, ajustando por calor y sudoracion.
+- 2-3 horas antes: 60-100 g de carbohidratos, 25-35 g de proteína, grasa moderada-baja;
+- después: 60-100 g de carbohidratos y 30-45 g de proteína;
+- agrega 500-750 ml de agua por hora de actividad como punto de partida, ajustando por calor y sudoración.
 
-Una opcion simple antes del futbol es barra proteica, banana y pan. Despues, usa la cena de carne/pollo/pescado con arroz o papa. Si el estomago se siente pesado, reduce grasas y verduras inmediatamente antes de jugar.
+Una opción simple antes del fútbol es barra proteica, banana y pan. Después, usa la cena de carne/pollo/pescado con arroz o papa. Si el estomago se siente pesado, reduce grasas y verduras inmediatamente antes de jugar.
 
-## Rotacion de alimentos
+## Rotación de alimentos
 
-| Funcion | Opciones |
+| Función | Opciones |
 |---|---|
 | Proteinas | Carne picada magra, cuadril, pollo, pescado, sardinas, huevos, queso, yogur proteico |
 | Carbohidratos | Arroz, pan, papa, batata, banana, naranja, manzana |
-| Verduras | Cebolla, zanahoria, ajo, morron, zapallo |
+| Verduras | Cebolla, zanahoria, ajo, morrón, zapallo |
 | Colaciones | Barra proteica, yogur proteico, fruta, gelatina |
 
-Inclui pescado al menos dos veces por semana y varia frutas y verduras. Las barras son una herramienta de conveniencia, no tienen que ser la base de toda la proteina.
+incluí pescado al menos dos veces por semana y varia frutas y verduras. Las barras son una herramienta de conveniencia, no tienen que ser la base de toda la proteína.
 
 ## Creatina
 
-- Toma **3-5 g de creatina monohidrato todos los dias**, tambien en descanso.
+- Toma **3-5 g de creatina monohidrato todos los días**, también en descanso.
 - El horario no es importante; elegi el que facilite no olvidarla.
-- No hace falta ciclarla ni realizar fase de carga.
-- Puede aumentar el peso al comienzo por mayor agua dentro del musculo; no confundas ese cambio inicial con grasa.
-- Si tenes una enfermedad renal diagnosticada o recibis una indicacion medica especifica, consulta antes de usarla.
+- No hacé falta ciclarla ni realizar fase de carga.
+- Puede aumentar el peso al comienzo por mayor agua dentro del músculo; no confundas ese cambio inicial con grasa.
+- Si tenes una enfermedad renal diagnosticada o recibís una indicación médica especifica, consulta antes de usarla.
 
-## Control y ajustes cada 14 dias
+## Control y ajustes cada 14 días
 
-1. Pesate 3-4 mananas por semana, despues de ir al bano y antes de comer. Compara promedios semanales, no mediciones aisladas.
+1. Pesate 3-4 mañanas por semana, después de ir al baño y antes de comer. Compara promedios semanales, no mediciones aisladas.
 2. Busca inicialmente una subida de aproximadamente **0,1-0,25% del peso por semana**: para 70 kg, unos 70-175 g semanales.
 3. Si durante dos semanas el promedio no sube y el cumplimiento fue bueno, agrega **100-150 kcal diarias**, preferentemente 25-35 g de carbohidratos.
-4. Si subis mas de 0,3-0,4% por semana durante dos semanas o la cintura crece rapidamente, quita **100-150 kcal diarias**.
-5. Si el peso no cambia pero aumentan cargas, repeticiones y medidas musculares sin crecer la cintura, conserva las calorias otras dos semanas.
-6. No cambies calorias por una unica pesada, una comida libre o el aumento inicial de agua de la creatina.
+4. Si subís más de 0,3-0,4% por semana durante dos semanas o la cintura crece rápidamente, quita **100-150 kcal diarias**.
+5. Si el peso no cambia pero aumentan cargas, repeticiones y medidas musculares sin crecer la cintura, conserva las calorías otras dos semanas.
+6. No cambies calorías por una única pesada, una comida libre o el aumento inicial de agua de la creatina.
 
-## Recuperacion
+## Recuperación
 
 - Duerme 7,5-9 horas.
-- Reparte la proteina entre las cuatro comidas; busca aproximadamente 30-45 g en cada una.
+- Reparte la proteína entre las cuatro comidas; busca aproximadamente 30-45 g en cada una.
 - No entrenes en ayunas si perjudica tu rendimiento.
 - Mantene frutas y verduras diariamente y no reemplaces comidas completas por suplementos.
-- Si aparecen sintomas digestivos persistentes, perdida involuntaria de peso o cualquier condicion medica, consulta con un profesional de nutricion.
+- Si aparecen síntomas digestivos persistentes, pérdida involuntaria de peso o cualquier condición médica, consulta con un profesional de nutrición.
