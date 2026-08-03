@@ -114,31 +114,39 @@ Para el primer ejercicio de cada patrón:
 - cero aproximaciones específicas en aislamientos, salvo que el hombro o una carga alta requieran una serie liviana;
 - las aproximaciones preparan, no cansan: no deben producir congestión ni reducir repeticiones efectivas.
 
-Las tablas dejan cargas vacías deliberadamente: se determina la carga por rango, técnica y RIR; no se inventan pesos.
+Las cargas iniciales de las tablas se infirieron exclusivamente del rendimiento de la última semana registrado en la rutina original. Los pesos son un punto de partida, no una obligación: técnica, RIR y respuesta del hombro mandan. Cuando cambia el implemento y la transferencia no puede conocerse con precisión, la carga figura expresamente como **Estimación**.
+
+### Criterio usado para inferir las cargas
+
+- Se conservaron cargas que ya permitieron entrar en el rango en todas las series (por ejemplo, prensa 260 kg, rumano 20 kg por mancuerna y pushdown 21 kg).
+- Cuando la carga dejó series por debajo del rango, se tomó la carga menor que sí produjo repeticiones válidas: 54 kg en jalón para 10-15, 50 kg en remo sentado para series rectas y 22 kg en predicador. Esto evita convertir un registro de esfuerzo alto en una prescripción incompatible con el RIR.
+- Las aproximaciones usan únicamente cargas ya registradas o fracciones simples de una carga demostrada. Su baja cantidad de repeticiones mantiene al menos 5 RIR y evita fatiga previa.
+- Se mantiene **Top set + back-off** solo en press de máquina del martes, jalón neutro del jueves y hack. En esos tres casos el registro muestra una carga alta útil y una carga menor capaz de sostener repeticiones de calidad. El resto usa series rectas: para hipertrofia no aporta valor perseguir un pico de fuerza si una carga repetible ofrece tensión suficiente con menor variabilidad y fatiga.
+- La reducción del press es 25% (80 a 60 kg), la del jalón 28% (75 a 54 kg) y la de hack 28,6% (140 a 100 kg). Son descensos mayores que un back-off convencional de 5-15%, pero son los únicos escalones **realmente demostrados** que devolvieron las repeticiones al rango; no se inventó un peso intermedio cuya disponibilidad se desconoce.
 
 ## Martes — Upper B (pecho prioritario)
 
 | Orden | Ejercicio | Serie | Tipo | Reps objetivo | Carga | RIR | Descanso | Observaciones |
 |---:|---|---:|---|---:|---:|---:|---:|---|
-| 1 | Press plano en máquina aprobado | A1 | Aproximación | 5-8 / ___ | ___ | ≥5 | 60-90 s | Agarre y recorrido autorizados |
-|  | ↳ | A2 | Aproximación | 3-5 / ___ | ___ | ≥5 | 60-90 s | Sin dolor |
-|  | ↳ | A3 | Aproximación | 1-3 / ___ | ___ | ≥5 | 90 s | Solo si hace falta |
-|  | ↳ | E1 | Efectiva | 8-12 / ___ | ___ | 3 | 2-3 min | Sin rebote ni estiramiento forzado |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ | 3 | 2-3 min |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ | 2-3 | 2-3 min |  |
-| 2 | Peck deck con tope de recorrido | A1 | Aproximación | 5-8 / ___ | ___ | ≥5 | 60 s | Solo si está aprobado |
-|  | ↳ | E1 | Efectiva | 10-15 / ___ | ___ | 3 | 90-120 s | No buscar apertura profunda |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 2-3 | 90-120 s |  |
-| 3 | Elevación lateral unilateral en polea | E1 | Efectiva | 12-20 / ___ | ___ | 3 | 60-90 s | Plano escapular; altura indolora |
-|  | ↳ | E2 | Efectiva | 12-20 / ___ | ___ | 2-3 | 60-90 s |  |
-|  | ↳ | E3 | Efectiva | 12-20 / ___ | ___ | 2 | 60-90 s |  |
-| 4 | Curl predicador | E1 | Efectiva | 8-12 / ___ | ___ | 2 | 90-120 s | Hombro inmóvil |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ | 1-2 | 90-120 s |  |
-| 5 | Pushdown en polea | E1 | Efectiva | 10-15 / ___ | ___ | 3 | 90-120 s | Codos junto al torso |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 2 | 90-120 s |  |
-| 6 | Crunch en máquina o cable aprobado | E1 | Efectiva | 10-15 / ___ | ___ | 2 | 60-90 s | Sin tirar con los brazos |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 1-2 | 60-90 s |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ | 1-2 | 60-90 s |  |
+| 1 | Press plano en máquina aprobado | A1 | Aproximación | 5-8 / ___ | 40 kg | ≥5 | 60-90 s | Agarre y recorrido autorizados |
+|  | ↳ | A2 | Aproximación | 3-5 / ___ | 60 kg | ≥5 | 60-90 s | Sin dolor |
+|  | ↳ | A3 | Aproximación | 1-3 / ___ | 80 kg | ≥5 | 90 s | Solo si hace falta |
+|  | ↳ | E1 | Top set | 8-12 / ___ | 80 kg | 3 | 2-3 min | Sin rebote ni estiramiento forzado |
+|  | ↳ | E2 | Back-off | 10-15 / ___ | 60 kg | 3 | 2-3 min | 25% menos; priorizar recorrido y control |
+|  | ↳ | E3 | Back-off | 10-15 / ___ | 60 kg | 2-3 | 2-3 min |  |
+| 2 | Peck deck con tope de recorrido | A1 | Aproximación | 5-8 / ___ | 25 kg | ≥5 | 60 s | Solo si está aprobado |
+|  | ↳ | E1 | Efectiva | 10-15 / ___ | 50 kg | 3 | 90-120 s | No buscar apertura profunda |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | 50 kg | 2-3 | 90-120 s |  |
+| 3 | Elevación lateral unilateral en polea | E1 | Efectiva | 12-20 / ___ | 3,7 kg | 3 | 60-90 s | Plano escapular; altura indolora |
+|  | ↳ | E2 | Efectiva | 12-20 / ___ | 3,7 kg | 2-3 | 60-90 s |  |
+|  | ↳ | E3 | Efectiva | 12-20 / ___ | 3,7 kg | 2 | 60-90 s |  |
+| 4 | Curl predicador | E1 | Efectiva | 8-12 / ___ | 22 kg | 2 | 90-120 s | Hombro inmóvil |
+|  | ↳ | E2 | Efectiva | 8-12 / ___ | 22 kg | 1-2 | 90-120 s |  |
+| 5 | Pushdown en polea | E1 | Efectiva | 10-15 / ___ | 21 kg | 3 | 90-120 s | Codos junto al torso |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | 21 kg | 2 | 90-120 s |  |
+| 6 | Crunch en máquina o cable aprobado | E1 | Efectiva | 10-15 / ___ | Estimación: 50 kg en máquina | 2 | 60-90 s | Registro original contradictorio; calibrar, sin tirar con brazos |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | Estimación: 50 kg en máquina | 1-2 | 60-90 s | No transferir 50 kg a cable |
+|  | ↳ | E3 | Efectiva | 10-15 / ___ | Estimación: 50 kg en máquina | 1-2 | 60-90 s |  |
 
 **Total:** 15 series efectivas. Estimación: 50-65 minutos.
 
@@ -146,26 +154,26 @@ Las tablas dejan cargas vacías deliberadamente: se determina la carga por rango
 
 | Orden | Ejercicio | Serie | Tipo | Reps objetivo | Carga | RIR | Descanso | Observaciones |
 |---:|---|---:|---|---:|---:|---:|---:|---|
-| 1 | Jalón al pecho con agarre neutro | A1 | Aproximación | 5-8 / ___ | ___ | ≥5 | 60-90 s | Sin balanceo |
-|  | ↳ | A2 | Aproximación | 3-5 / ___ | ___ | ≥5 | 60-90 s |  |
-|  | ↳ | E1 | Efectiva | 8-12 / ___ | ___ | 2 | 2-3 min | Recorrido indoloro |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ | 2 | 2-3 min |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ | 1-2 | 2-3 min |  |
-| 2 | Press plano en máquina aprobado | A1 | Aproximación | 5-8 / ___ | ___ | ≥5 | 60-90 s | Recalibrar según respuesta del martes |
-|  | ↳ | A2 | Aproximación | 3-5 / ___ | ___ | ≥5 | 90 s |  |
-|  | ↳ | E1 | Efectiva | 10-15 / ___ | ___ | 3 | 2-3 min | Carga moderada |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 2-3 | 2-3 min |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ | 2-3 | 2-3 min |  |
-| 3 | Remo sentado con pecho apoyado, codos 45-60° | A1 | Aproximación | 5-8 / ___ | ___ | ≥5 | 60-90 s | Agarre neutro si está disponible |
-|  | ↳ | E1 | Efectiva | 8-12 / ___ | ___ | 2 | 2-3 min | Sin extensión lumbar |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ | 2 | 2-3 min |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ | 1-2 | 2-3 min |  |
-| 4 | Elevación lateral unilateral en polea | E1 | Efectiva | 12-20 / ___ | ___ | 3 | 60-90 s | Recorrido aprobado |
-|  | ↳ | E2 | Efectiva | 12-20 / ___ | ___ | 2 | 60-90 s |  |
-| 5 | Curl en polea, brazo junto al torso | E1 | Efectiva | 10-15 / ___ | ___ | 2 | 90-120 s | Sustituye al curl inclinado |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 1-2 | 90-120 s |  |
-| 6 | Pushdown en polea | E1 | Efectiva | 10-15 / ___ | ___ | 3 | 90-120 s | Sin mover hombro |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 2 | 90-120 s |  |
+| 1 | Jalón al pecho con agarre neutro | A1 | Aproximación | 5-8 / ___ | 40 kg | ≥5 | 60-90 s | Sin balanceo |
+|  | ↳ | A2 | Aproximación | 3-5 / ___ | 47 kg | ≥5 | 60-90 s |  |
+|  | ↳ | E1 | Top set | 8-12 / ___ | 75 kg | 2 | 2-3 min | Recorrido indoloro |
+|  | ↳ | E2 | Back-off | 10-15 / ___ | 54 kg | 2 | 2-3 min | 28% menos; escalón validado por el registro |
+|  | ↳ | E3 | Back-off | 10-15 / ___ | 54 kg | 1-2 | 2-3 min |  |
+| 2 | Press plano en máquina aprobado | A1 | Aproximación | 5-8 / ___ | 40 kg | ≥5 | 60-90 s | Recalibrar según respuesta del martes |
+|  | ↳ | A2 | Aproximación | 3-5 / ___ | 50 kg | ≥5 | 90 s |  |
+|  | ↳ | E1 | Efectiva | 10-15 / ___ | 60 kg | 3 | 2-3 min | Carga moderada |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | 60 kg | 2-3 | 2-3 min |  |
+|  | ↳ | E3 | Efectiva | 10-15 / ___ | 60 kg | 2-3 | 2-3 min |  |
+| 3 | Remo sentado con pecho apoyado, codos 45-60° | A1 | Aproximación | 5-8 / ___ | 40 kg | ≥5 | 60-90 s | Agarre neutro si está disponible |
+|  | ↳ | E1 | Efectiva | 8-12 / ___ | 50 kg | 2 | 2-3 min | Sin extensión lumbar |
+|  | ↳ | E2 | Efectiva | 8-12 / ___ | 50 kg | 2 | 2-3 min |  |
+|  | ↳ | E3 | Efectiva | 8-12 / ___ | 50 kg | 1-2 | 2-3 min |  |
+| 4 | Elevación lateral unilateral en polea | E1 | Efectiva | 12-20 / ___ | 3,7 kg | 3 | 60-90 s | Recorrido aprobado |
+|  | ↳ | E2 | Efectiva | 12-20 / ___ | 3,7 kg | 2 | 60-90 s |  |
+| 5 | Curl en polea, brazo junto al torso | E1 | Efectiva | 10-15 / ___ | Estimación: 22 kg | 2 | 90-120 s | Sustituye al curl inclinado |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | Estimación: 22 kg | 1-2 | 90-120 s |  |
+| 6 | Pushdown en polea | E1 | Efectiva | 10-15 / ___ | 21 kg | 3 | 90-120 s | Sin mover hombro |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | 21 kg | 2 | 90-120 s |  |
 
 **Total:** 15 series efectivas. Estimación: 55-70 minutos.
 
@@ -173,34 +181,34 @@ Las tablas dejan cargas vacías deliberadamente: se determina la carga por rango
 
 | Orden | Ejercicio | Serie | Tipo | Reps objetivo | Carga | RIR | Descanso | Observaciones |
 |---:|---|---:|---|---:|---:|---:|---:|---|
-| 1 | Sentadilla hack | A1 | Aproximación | 5-8 / ___ | ___ | ≥5 | 60-90 s | Recorrido controlado |
-|  | ↳ | A2 | Aproximación | 3-5 / ___ | ___ | ≥5 | 60-90 s |  |
-|  | ↳ | A3 | Aproximación | 1-3 / ___ | ___ | ≥5 | 90 s | Solo si hace falta |
-|  | ↳ | E1 | Efectiva | 6-10 / ___ | ___ | 3 | 2-3 min | Técnica idéntica entre series |
-|  | ↳ | E2 | Efectiva | 6-10 / ___ | ___ | 2 | 2-3 min |  |
-|  | ↳ | E3 | Efectiva | 6-10 / ___ | ___ | 2 | 2-3 min |  |
-|  | ↳ | E4 | Efectiva | 6-10 / ___ | ___ | 1-2 | 2-3 min |  |
-| 2 | Peso muerto rumano con mancuernas aprobado | A1 | Aproximación | 5-8 / ___ | ___ | ≥5 | 60-90 s | Straps solo si están autorizados |
-|  | ↳ | E1 | Efectiva | 8-12 / ___ | ___ | 3 | 2-3 min | Hombro pasivo y estable |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ | 2 | 2-3 min |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ | 2 | 2-3 min |  |
-| 3 | Prensa | A1 | Aproximación | 5-8 / ___ | ___ | ≥5 | 60-90 s | Ajustar pies a técnica estable |
-|  | ↳ | E1 | Efectiva | 10-15 / ___ | ___ | 2 | 2-3 min | Sin despegar pelvis |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 1-2 | 2-3 min |  |
-| 4 | Curl femoral sentado preferentemente | E1 | Efectiva | 10-15 / ___ | ___ | 2 | 90-120 s | Excéntrica controlada |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 2 | 90-120 s |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ | 1-2 | 90-120 s |  |
-| 5 | Extensión de cuádriceps | E1 | Efectiva | 12-15 / ___ | ___ | 2 | 90-120 s | Sin impulso |
-|  | ↳ | E2 | Efectiva | 12-15 / ___ | ___ | 1-2 | 90-120 s |  |
-|  | ↳ | E3 | Efectiva | 12-15 / ___ | ___ | 1-2 | 90-120 s | Omitir primero si fútbol no recupera |
-| 6 | Gemelos en prensa | E1 | Efectiva | 8-15 / ___ | ___ | 2 | 90-120 s | Pausa en estiramiento y arriba |
-|  | ↳ | E2 | Efectiva | 8-15 / ___ | ___ | 2 | 90-120 s |  |
-|  | ↳ | E3 | Efectiva | 8-15 / ___ | ___ | 1-2 | 90-120 s |  |
-|  | ↳ | E4 | Efectiva | 8-15 / ___ | ___ | 1-2 | 90-120 s |  |
-|  | ↳ | E5 | Efectiva | 8-15 / ___ | ___ | 1-2 | 90-120 s |  |
-| 7 | Crunch en máquina o cable aprobado | E1 | Efectiva | 10-15 / ___ | ___ | 2 | 60-90 s | Sin carga sobre el hombro |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 1-2 | 60-90 s |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ | 1-2 | 60-90 s |  |
+| 1 | Sentadilla hack | A1 | Aproximación | 5-8 / ___ | 40 kg | ≥5 | 60-90 s | Recorrido controlado |
+|  | ↳ | A2 | Aproximación | 3-5 / ___ | 60 kg | ≥5 | 60-90 s |  |
+|  | ↳ | A3 | Aproximación | 1-3 / ___ | 100 kg | ≥5 | 90 s | Solo si hace falta |
+|  | ↳ | E1 | Top set | 6-10 / ___ | 140 kg | 3 | 2-3 min | Técnica idéntica entre series |
+|  | ↳ | E2 | Back-off | 10-15 / ___ | 100 kg | 2 | 2-3 min | 28,6% menos; el registro demostró 12 repeticiones |
+|  | ↳ | E3 | Back-off | 10-15 / ___ | 100 kg | 2 | 2-3 min |  |
+|  | ↳ | E4 | Back-off | 10-15 / ___ | 100 kg | 1-2 | 2-3 min |  |
+| 2 | Peso muerto rumano con mancuernas aprobado | A1 | Aproximación | 5-8 / ___ | 10 kg por mancuerna | ≥5 | 60-90 s | Straps solo si están autorizados |
+|  | ↳ | E1 | Efectiva | 8-12 / ___ | 20 kg por mancuerna | 3 | 2-3 min | Hombro pasivo y estable |
+|  | ↳ | E2 | Efectiva | 8-12 / ___ | 20 kg por mancuerna | 2 | 2-3 min |  |
+|  | ↳ | E3 | Efectiva | 8-12 / ___ | 20 kg por mancuerna | 2 | 2-3 min |  |
+| 3 | Prensa | A1 | Aproximación | 5-8 / ___ | 130 kg | ≥5 | 60-90 s | Ajustar pies a técnica estable |
+|  | ↳ | E1 | Efectiva | 10-15 / ___ | 260 kg | 2 | 2-3 min | Sin despegar pelvis |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | 260 kg | 1-2 | 2-3 min |  |
+| 4 | Curl femoral sentado preferentemente | E1 | Efectiva | 10-15 / ___ | 57 kg | 2 | 90-120 s | Excéntrica controlada |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | 57 kg | 2 | 90-120 s |  |
+|  | ↳ | E3 | Efectiva | 10-15 / ___ | 57 kg | 1-2 | 90-120 s |  |
+| 5 | Extensión de cuádriceps | E1 | Efectiva | 12-15 / ___ | 87 kg | 2 | 90-120 s | Sin impulso |
+|  | ↳ | E2 | Efectiva | 12-15 / ___ | 87 kg | 1-2 | 90-120 s |  |
+|  | ↳ | E3 | Efectiva | 12-15 / ___ | 87 kg | 1-2 | 90-120 s | Omitir primero si fútbol no recupera |
+| 6 | Gemelos en prensa | E1 | Efectiva | 8-15 / ___ | 162 kg | 2 | 90-120 s | Pausa en estiramiento y arriba |
+|  | ↳ | E2 | Efectiva | 8-15 / ___ | 162 kg | 2 | 90-120 s |  |
+|  | ↳ | E3 | Efectiva | 8-15 / ___ | 162 kg | 1-2 | 90-120 s |  |
+|  | ↳ | E4 | Efectiva | 8-15 / ___ | 162 kg | 1-2 | 90-120 s |  |
+|  | ↳ | E5 | Efectiva | 8-15 / ___ | 162 kg | 1-2 | 90-120 s |  |
+| 7 | Crunch en máquina o cable aprobado | E1 | Efectiva | 10-15 / ___ | Estimación: 50 kg en máquina | 2 | 60-90 s | Registro original contradictorio; calibrar sin cargar el hombro |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | Estimación: 50 kg en máquina | 1-2 | 60-90 s | No transferir 50 kg a cable |
+|  | ↳ | E3 | Efectiva | 10-15 / ___ | Estimación: 50 kg en máquina | 1-2 | 60-90 s |  |
 
 **Total:** 23 series efectivas. Estimación: 70-90 minutos. El rumano va antes de la prensa para que los isquios reciban trabajo de calidad; la hack conserva prioridad de cuádriceps. Si el profesional no autoriza el rumano, no improvisar un reemplazo: solicitar una bisagra o variante compatible.
 
@@ -208,24 +216,24 @@ Las tablas dejan cargas vacías deliberadamente: se determina la carga por rango
 
 | Orden | Ejercicio | Serie | Tipo | Reps objetivo | Carga | RIR | Descanso | Observaciones |
 |---:|---|---:|---|---:|---:|---:|---:|---|
-| 1 | Remo T con pecho apoyado | A1 | Aproximación | 5-8 / ___ | ___ | ≥5 | 60-90 s | Agarre neutro aprobado |
-|  | ↳ | A2 | Aproximación | 3-5 / ___ | ___ | ≥5 | 60-90 s |  |
-|  | ↳ | E1 | Efectiva | 8-12 / ___ | ___ | 2 | 2-3 min | Pecho siempre apoyado |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ | 2 | 2-3 min |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ | 1-2 | 2-3 min |  |
-| 2 | Jalón al pecho con agarre neutro | A1 | Aproximación | 5-8 / ___ | ___ | ≥5 | 60-90 s |  |
-|  | ↳ | E1 | Efectiva | 10-15 / ___ | ___ | 2 | 2-3 min | Sin balanceo |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 2 | 2-3 min |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ | 1-2 | 2-3 min |  |
-| 3 | Apertura inversa en máquina | E1 | Efectiva | 12-20 / ___ | ___ | 2 | 60-90 s | Sin impulso |
-|  | ↳ | E2 | Efectiva | 12-20 / ___ | ___ | 1-2 | 60-90 s |  |
-| 4 | Curl martillo sentado o apoyado | E1 | Efectiva | 10-15 / ___ | ___ | 2 | 90-120 s | Agarre neutro |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 1-2 | 90-120 s |  |
-| 5 | Pushdown en polea | E1 | Efectiva | 10-15 / ___ | ___ | 3 | 90-120 s | Codos junto al torso |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ | 2 | 90-120 s |  |
-| 6 | Elevación lateral unilateral en polea | E1 | Efectiva | 12-20 / ___ | ___ | 3 | 60-90 s | Altura indolora |
-|  | ↳ | E2 | Efectiva | 12-20 / ___ | ___ | 2 | 60-90 s |  |
-|  | ↳ | E3 | Efectiva | 12-20 / ___ | ___ | 2 | 60-90 s |  |
+| 1 | Remo T con pecho apoyado | A1 | Aproximación | 5-8 / ___ | 15 kg | ≥5 | 60-90 s | Agarre neutro aprobado |
+|  | ↳ | A2 | Aproximación | 3-5 / ___ | 25 kg | ≥5 | 60-90 s |  |
+|  | ↳ | E1 | Efectiva | 8-12 / ___ | 30 kg | 2 | 2-3 min | Pecho siempre apoyado |
+|  | ↳ | E2 | Efectiva | 8-12 / ___ | 30 kg | 2 | 2-3 min |  |
+|  | ↳ | E3 | Efectiva | 8-12 / ___ | 30 kg | 1-2 | 2-3 min |  |
+| 2 | Jalón al pecho con agarre neutro | A1 | Aproximación | 5-8 / ___ | 40 kg | ≥5 | 60-90 s |  |
+|  | ↳ | E1 | Efectiva | 10-15 / ___ | 54 kg | 2 | 2-3 min | Sin balanceo |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | 54 kg | 2 | 2-3 min |  |
+|  | ↳ | E3 | Efectiva | 10-15 / ___ | 54 kg | 1-2 | 2-3 min |  |
+| 3 | Apertura inversa en máquina | E1 | Efectiva | 12-20 / ___ | 42 kg | 2 | 60-90 s | Sin impulso |
+|  | ↳ | E2 | Efectiva | 12-20 / ___ | 42 kg | 1-2 | 60-90 s |  |
+| 4 | Curl martillo sentado o apoyado | E1 | Efectiva | 10-15 / ___ | 12 kg por mancuerna | 2 | 90-120 s | Agarre neutro |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | 12 kg por mancuerna | 1-2 | 90-120 s |  |
+| 5 | Pushdown en polea | E1 | Efectiva | 10-15 / ___ | 21 kg | 3 | 90-120 s | Codos junto al torso |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | 21 kg | 2 | 90-120 s |  |
+| 6 | Elevación lateral unilateral en polea | E1 | Efectiva | 12-20 / ___ | 3,7 kg | 3 | 60-90 s | Altura indolora |
+|  | ↳ | E2 | Efectiva | 12-20 / ___ | 3,7 kg | 2 | 60-90 s |  |
+|  | ↳ | E3 | Efectiva | 12-20 / ___ | 3,7 kg | 2 | 60-90 s |  |
 
 **Total:** 15 series efectivas. Estimación: 50-65 minutos.
 
@@ -316,6 +324,16 @@ Registrar además carga, repeticiones y RIR de cada efectiva. La rutina funciona
 | RIR 2-3 en hombro implicado | La proximidad suficiente al fallo recluta fibras sin exigir fallo | Menor deterioro técnico y mejor recuperación | Requiere estimar RIR con honestidad |
 | Descansos de 2-3 min en compuestos | Recupera repeticiones y carga entre series | Mayor volumen efectivo real | Sesión algo más larga que con descansos cortos |
 | Menos abdomen y más gemelos | Corrige desequilibrio y retira trabajo difícil de progresar | Distribución más útil del tiempo | Gemelos aún empiezan conservadores por el fútbol |
+
+### Auditoría final de cargas y esquemas
+
+- **Top set + back-off agregado:** press plano en máquina del martes (80 kg + 2 × 60 kg), jalón neutro del jueves (75 kg + 2 × 54 kg) y sentadilla hack (140 kg + 3 × 100 kg). Los back-offs usan rangos más altos que el top set para que la reducción de carga siga produciendo series cercanas al fallo previsto, no calentamientos disfrazados.
+- **Top set eliminado:** ninguno, porque la v2 no prescribía formalmente ningún top set. Sí se reemplazaron las pirámides descendentes implícitas del registro por tres esquemas explícitos y series rectas en el resto.
+- **Series rectas deliberadas:** peck deck 50 kg; laterales en polea 3,7 kg; predicador 22 kg; pushdown 21 kg; press del jueves 60 kg; remo sentado 50 kg; rumano 20 kg por mancuerna; prensa 260 kg; curl femoral 57 kg; extensión 87 kg; gemelos 162 kg; remo T 30 kg; jalón del domingo 54 kg; apertura inversa 42 kg; martillo 12 kg por mancuerna. Reducen variabilidad y facilitan comparar repeticiones y RIR semana a semana.
+- **Baja confianza:** curl en polea a 22 kg, porque se transfiere desde curl con barra y la relación del cable puede cambiar; crunch en máquina a 50 kg, porque la tabla original muestra esa carga pero su auditoría dice que faltaban los datos. Ambos se rotulan **Estimación**. No hay base para asignar kilos al crunch en cable.
+- **Aproximaciones calculadas:** se reutilizaron 40/47 kg en jalón, 40/60/80 kg en press y 40/60/100 kg en hack. En prensa (130 kg), rumano (10 kg por mancuerna) y remo T (15/25 kg) se usaron fracciones conservadoras de cargas demostradas; no predicen rendimiento y deben sentirse a ≥5 RIR.
+- **Riesgos y dudas:** el registro no informa RIR ni dolor por serie, por lo que ninguna carga valida tolerancia clínica; además, los kilos de máquinas solo son comparables en el mismo equipo, ajuste y recorrido. Si el primer set no alcanza el RIR o el hombro supera el umbral de síntomas, prevalecen las reglas de reducción/suspensión, no el número impreso.
+- **Validación práctica:** no subir en la primera exposición. Confirmar que cada top set entra en su rango, que cada back-off entra en el rango superior y que las series rectas no caen por debajo del mínimo. Registrar repeticiones, RIR, dolor durante la sesión y respuesta a 24 horas antes de progresar.
 
 ## Referencias de apoyo ya documentadas en el repositorio
 
