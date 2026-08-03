@@ -43,5 +43,5 @@ La documentación centraliza información que antes estaba dispersa y facilita c
 - Mantener un único título de nivel 1 (`#`) por documento y respetar la jerarquía de encabezados.
 - Separar encabezados, párrafos, listas y tablas con líneas en blanco.
 - Usar enlaces relativos y actualizarlos cuando se mueva o renombre un archivo.
-- Registrar series como `3 × 8-12`, cargas en `kg`, descansos en segundos o minutos y RIR de forma explícita.
+- En la rutina, registrar cada serie en una fila independiente, distinguir aproximaciones de series efectivas y anotar repeticiones y carga por serie. Expresar las cargas en `kg` cuando corresponda, los descansos en segundos o minutos y el RIR de forma explícita.
 - No modificar ni reinterpretar los PDF clínicos. Ante una posible contradicción, conservar ambos contenidos y consultar al profesional correspondiente.
