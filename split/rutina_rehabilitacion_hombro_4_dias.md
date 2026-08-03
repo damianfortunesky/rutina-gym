@@ -113,6 +113,64 @@ Si el press en maquina molesta, cambialo por 2 series adicionales de apertura co
 
 **Total:** 22 series efectivas mas 2 correctivas. Duracion objetivo: 70-85 minutos.
 
+## Registro de pesos y repeticiones (valores genericos para corregir)
+
+Usa estos valores solo como punto de partida para completar el registro. Todos los pesos estan expresados en kg y deben corregirse con la carga real utilizada. En ejercicios unilaterales, el peso y las repeticiones corresponden a cada lado. `Aprox.` indica `peso x repeticiones`; las aproximaciones no cuentan como series efectivas.
+
+### Martes - Upper A
+
+| Ejercicio | Series | Pesos por serie (kg) | Repeticiones por serie | Aprox. (kg x reps) |
+|---|---:|---|---|---|
+| Jalon al pecho neutro o semiprono | 3 | 35 / 35 / 35 | 10 / 10 / 9 | 20 x 10; 30 x 6 |
+| Remo con pecho apoyado | 3 | 30 / 30 / 30 | 10 / 10 / 9 | 20 x 8 |
+| Remo unilateral en polea | 2 | 12,5 / 12,5 | 12 / 11 | 7,5 x 10 |
+| Apertura en polea | 3 | 7,5 / 7,5 / 7,5 | 15 / 14 / 13 | 5 x 12 |
+| Elevacion lateral unilateral en polea | 2 | 2,5 / 2,5 | 18 / 16 | 1,25 x 15 |
+| Apertura inversa en maquina | 3 | 20 / 20 / 20 | 18 / 17 / 16 | 10 x 15 |
+| Curl en polea o predicador | 3 | 15 / 15 / 15 | 12 / 11 / 10 | 10 x 10 |
+| Curl martillo | 2 | 8 / 8 | 12 / 11 | 5 x 10 |
+
+### Jueves - Upper B
+
+| Ejercicio | Series | Pesos por serie (kg) | Repeticiones por serie | Aprox. (kg x reps) |
+|---|---:|---|---|---|
+| Peck deck o apertura sentada | 3 | 20 / 20 / 20 | 15 / 14 / 13 | 10 x 12 |
+| Flexion inclinada con manos elevadas | 2 | Peso corporal / Peso corporal | 12 / 10 | Pared x 10 |
+| Remo T con pecho apoyado | 3 | 25 / 25 / 25 | 10 / 10 / 9 | 15 x 8 |
+| Jalon neutro moderado | 2 | 30 / 30 | 13 / 12 | 20 x 10 |
+| Elevacion lateral unilateral en polea | 2 | 2,5 / 2,5 | 18 / 16 | 1,25 x 15 |
+| Extension de triceps con cuerda | 3 | 15 / 15 / 15 | 14 / 13 / 12 | 10 x 12 |
+| Extension unilateral cruzada | 2 | 5 / 5 | 15 / 13 | 2,5 x 12 |
+| Face pull muy liviano | 2 | 10 / 10 | 20 / 18 | 5 x 15 |
+
+### Sabado - Piernas
+
+| Ejercicio | Series | Pesos por serie (kg) | Repeticiones por serie | Aprox. (kg x reps) |
+|---|---:|---|---|---|
+| Sentadilla hack | 4 | 40 / 40 / 40 / 40 | 10 / 9 / 8 / 8 | 20 x 8; 30 x 5 |
+| Prensa | 3 | 80 / 80 / 80 | 15 / 13 / 12 | 40 x 10; 60 x 6 |
+| Extension de cuadriceps | 3 | 25 / 25 / 25 | 15 / 14 / 12 | 15 x 12 |
+| Peso muerto rumano con mancuernas | 4 | 20 / 20 / 20 / 20 | 12 / 11 / 10 / 9 | 10 x 10; 15 x 6 |
+| Curl femoral sentado o acostado | 4 | 25 / 25 / 25 / 25 | 15 / 14 / 13 / 12 | 15 x 12 |
+| Gemelos en prensa | 4 | 60 / 60 / 60 / 60 | 15 / 14 / 13 / 12 | 40 x 12 |
+| Gemelos de pie o sentado | 4 | 25 / 25 / 25 / 25 | 18 / 17 / 15 / 14 | 15 x 15 |
+| Crunch en maquina o polea | 4 | 20 / 20 / 20 / 20 | 15 / 14 / 13 / 12 | 10 x 12 |
+
+### Domingo - Upper C
+
+| Ejercicio | Series | Pesos por serie (kg) | Repeticiones por serie | Aprox. (kg x reps) |
+|---|---:|---|---|---|
+| Jalon al pecho neutro | 3 | 30 / 30 / 30 | 15 / 13 / 12 | 20 x 10 |
+| Remo sentado con pecho apoyado | 2 | 25 / 25 | 14 / 12 | 15 x 10 |
+| Press de pecho en maquina con agarre neutro | 2 | 15 / 15 | 12 / 10 | 5 x 12; 10 x 8 |
+| Apertura corta en polea o peck deck | 2 | 7,5 / 7,5 | 15 / 13 | 5 x 12 |
+| Elevacion lateral en polea | 2 | 2,5 / 2,5 | 18 / 16 | 1,25 x 15 |
+| Apertura inversa en maquina | 1 | 20 | 18 | 10 x 15 |
+| Curl con barra W o polea | 3 | 15 / 15 / 15 | 12 / 11 / 10 | 10 x 10 |
+| Triceps con cuerda o barra V | 3 | 15 / 15 / 15 | 15 / 13 / 12 | 10 x 12 |
+| Crunch en maquina | 4 | 20 / 20 / 20 / 20 | 15 / 14 / 13 / 12 | 10 x 12 |
+| Serratus wall slide o scapular push-up | 2 | Peso corporal / Peso corporal | 12 / 12 | Pared x 10 |
+
 ## Auditoria de volumen semanal
 
 | Grupo | Martes | Jueves | Sabado | Domingo | Total | Referencia sin lesion |
