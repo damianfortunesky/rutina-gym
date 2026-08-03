@@ -51,147 +51,149 @@ Se eligieron martes, jueves, sábado y domingo para evitar piernas inmediatament
 
 Todo debe ser liviano, sin fatiga y sin dolor. Si tu profesional indicó otra entrada en calor, usa esa.
 
-## Martes - Upper A
+## Domingo - Upper A
 
 | Orden | Ejercicio | Serie | Tipo de serie | Repeticiones (objetivo / realizadas) | Peso utilizado | Grupo contabilizado | Observaciones |
 |---:|---|---:|---|---:|---:|---|---|
-| 1 | Jalón al pecho ancho | A1 | Aproximación | — / ___ | ___ kg | Dorsales 3 | Sin balanceo ni recorrido tras nuca. |
-|  | ↳ | A2 | Aproximación | — / ___ | ___ kg |  |  |
-|  | ↳ | A3 (opcional) | Aproximación | — / ___ | ___ kg |  |  |
-|  | ↳ | E1 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-| 2 | Remo con pecho apoyado, codos a 45-60 grados | E1 | Efectiva | 8-12 / ___ | ___ kg | Espalda alta 3 | Pausa de un segundo atrás. |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-| 3 | Remo unilateral en polea, codo junto al torso | E1 | Efectiva | 10-15 por lado / ___ | ___ kg | Dorsales 2 | No dejes caer el hombro al estirar. |
-|  | ↳ | E2 | Efectiva | 10-15 por lado / ___ | ___ kg |  |  |
-| 4 | Apertura en polea, recorrido corto-medio | E1 | Efectiva | 12-15 / ___ | ___ kg | Pecho 3 | Sin estiramiento profundo. |
-|  | ↳ | E2 | Efectiva | 12-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 12-15 / ___ | ___ kg |  |  |
-| 5 | Elevación lateral unilateral en polea | E1 | Efectiva | 15-20 / ___ | ___ kg | Lateral 2 | Plano escapular y altura indolora. |
-|  | ↳ | E2 | Efectiva | 15-20 / ___ | ___ kg |  |  |
-| 6 | Apertura inversa en máquina | E1 | Efectiva | 15-20 / ___ | ___ kg | Posterior 3 | Liviana y sin impulso. |
-|  | ↳ | E2 | Efectiva | 15-20 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 15-20 / ___ | ___ kg |  |  |
-| 7 | Curl en polea o predicador | E1 | Efectiva | 8-12 / ___ | ___ kg | Bíceps 3 | Hombro estable. |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-| 8 | Curl martillo | E1 | Efectiva | 10-15 / ___ | ___ kg | Bíceps 2 | Agarre neutro. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
+| 1 | Jalón al pecho ancho | A1 | Aproximación | 5 /  5 | 40 kg | Dorsales 3 | Sin balanceo ni recorrido tras nuca. |
+|  | ↳ | A2 | Aproximación | 5 / 5 | 47 kg |  |  |
+|  | ↳ | E1 | Efectiva | 8-12 /  6 | 82 kg |  |  |
+|  | ↳ | E2 | Efectiva | 8-12 /  8 | 75 kg |  |  |
+|  | ↳ | E3 | Efectiva | 8-12 / 12 | 54 kg |  |  |
+| 2 | Remo con pecho apoyado, codos a 45-60 grados | E1 | Efectiva | 8-12 / 12 | 80 kg | Espalda alta 3 | Pausa de un segundo atrás. |
+|  | ↳ | E2 | Efectiva | 8-12 /  8 | 80 kg |  |  |
+|  | ↳ | E3 | Efectiva | 8-12 /  8 | 80 kg |  |  |
+| 3 | Curl predicador | E1 | Efectiva | 8-12 / 8 | 30 kg | Bíceps 3 | Hombro estable. |
+|  | ↳ | E2 | Efectiva | 8-12 / 6 | 30 kg |  |  |
+|  | ↳ | E3 | Efectiva | 8-12 / 12 | 22 kg |  |  |
+| 4 | Triceps tras nuca en polea alta | E1 | Efectiva | 10-15 por lado / 12 | 13 kg | Triceps 3 | Juntar codos . |
+|  | ↳ | E2 | Efectiva | 10-15 por lado / 12 | 13 kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 por lado / 12 | 13 kg |  |  |
+| 5 | Curl martillo | E1 | Efectiva | 10-15 / 10 | 12 kg | Bíceps 3 | Agarre neutro. |
+|  | ↳ | E2 | Efectiva | 10-15 / 10 | 12 kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 10 | 12 kg |  |  |
+| 6 | Elevación lateral unilateral en polea | E1 | Efectiva | 15-20 / 12 | 3.7 kg | Lateral 3 | Plano escapular y altura indolora. |
+|  | ↳ | E2 | Efectiva | 15-20 / 12 | 3.7 kg |  |  |
+|  | ↳ | E3 | Efectiva | 15-20 / 12 | 3.7 kg |  |  |
+| 7 | Apertura inversa en máquina | E1 | Efectiva | 15-20 / 12 | 42 kg | Posterior 3 | Liviana y sin impulso. |
+|  | ↳ | E2 | Efectiva | 15-20 / 12 | 42 kg |  |  |
+|  | ↳ | E3 | Efectiva | 15-20 / 12 | 42 kg |  |  |
+| 8 | Giro en Pie | E1 | Efectiva | 12-15 / 12 | 11 kg | Oblicuos 3 | Controlado y sin impulso. |
+|  | ↳ | E2 | Efectiva | 12-15 / 12 | 11 kg |  |  |
+|  | ↳ | E3 | Efectiva | 12-15 / 12 | 11 kg |  |  |
 
 **Total:** 21 series efectivas. Duración objetivo: 65-80 minutos.
 
-## Jueves - Upper B
+
+## Martes - Upper B
 
 | Orden | Ejercicio | Serie | Tipo de serie | Repeticiones (objetivo / realizadas) | Peso utilizado | Grupo contabilizado | Observaciones |
 |---:|---|---:|---|---:|---:|---|---|
-| 1 | Peck deck o apertura sentada | A1 | Aproximación | — / ___ | ___ kg | Pecho 3 | Frenar antes del tirón anterior. |
-|  | ↳ | A2 | Aproximación | — / ___ | ___ kg |  |  |
-|  | ↳ | A3 (opcional) | Aproximación | — / ___ | ___ kg |  |  |
-|  | ↳ | E1 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-| 2 | Flexión inclinada con manos elevadas | E1 | Efectiva | 8-15 / ___ | ___ kg | Pecho 2 | Solo si es completamente indolora. |
-|  | ↳ | E2 | Efectiva | 8-15 / ___ | ___ kg |  |  |
-| 3 | Remo T con pecho apoyado | E1 | Efectiva | 8-12 / ___ | ___ kg | Espalda alta 3 | Agarre neutro si está disponible. |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-| 4 | Jalón neutro moderado | E1 | Efectiva | 10-15 / ___ | ___ kg | Dorsales 2 | Sin balanceo. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-| 5 | Elevación lateral unilateral en polea | E1 | Efectiva | 15-20 / ___ | ___ kg | Lateral 2 | Sin superar el rango indoloro. |
-|  | ↳ | E2 | Efectiva | 15-20 / ___ | ___ kg |  |  |
-| 6 | Extensión de tríceps con cuerda | E1 | Efectiva | 10-15 / ___ | ___ kg | Tríceps 3 | Codos junto al torso. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-| 7 | Extensión unilateral cruzada | E1 | Efectiva | 12-15 por lado / ___ | ___ kg | Tríceps 2 | No llevar el brazo hacia atrás. |
-|  | ↳ | E2 | Efectiva | 12-15 por lado / ___ | ___ kg |  |  |
-| 8 | Face pull muy liviano | E1 | Efectiva | 15-20 / ___ | ___ kg | Posterior 2 | No convertirlo en un tirón pesado. |
-|  | ↳ | E2 | Efectiva | 15-20 / ___ | ___ kg |  |  |
-
-Si las flexiones molestan, reemplazalas por isométrico de pecho contra pared, 3 × 20-30 segundos. El isométrico no se cuenta como dos series de hipertrofia; esa semana el pecho queda con menor volumen.
+| 1 | Peck deck o apertura sentada | A1 | Aproximación | 5 /  5 | 25 kg | Pecho 3 | Frenar antes del tirón anterior. |
+|  | ↳ | A2 | Aproximación | 5 / 5 | 25 kg |  |  |
+|  | ↳ | E1 | Efectiva | 10-15 / 12 | 50 kg |  |  |
+|  | ↳ | E2 | Efectiva | 10-15 / 10 | 50 kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 10 | 50 kg |  |  |
+| 2 | Press plano en maquina | A1 | Aproximación | 5 / 5 | 40 kg | Pecho 3 | Solo si es completamente indolora. |
+|  | ↳ | E1 | Efectiva | 8-15 /  8 | 100 kg |  |  |
+|  | ↳ | E2 | Efectiva | 8-15 / 10 | 80 kg |  |  |
+|  | ↳ | E3 | Efectiva | 8-15 / 12 | 60 kg |  |  |
+| 3 | Remo T con pecho apoyado | E1 | Efectiva | 8-12 / 8 | 30 kg | Espalda alta 3 | Agarre neutro si está disponible. |
+|  | ↳ | E2 | Efectiva | 8-12 /  8 | 30 kg |  |  |
+|  | ↳ | E3 | Efectiva | 8-12 /  8 | 30 kg |  |  |
+| 4 | Pull over con barra | E1 | Efectiva | 10-15 / 12 | 21 kg | Dorsales 2 | Sin balanceo. |
+|  | ↳ | E2 | Efectiva | 10-15 / 12 | 21kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 12 | 21kg |  |  |
+| 5 | Curl de biceps con mancuerna inclinado | E1 | Efectiva | 10-12 / 12 | 12 kg | Lateral 2 | Sin superar el rango indoloro. |
+|  | ↳ | E2 | Efectiva | 10-12 / 10 | 12kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-12 /  8 | 12kg |  |  |
+| 6 | Elevación lateral con mancuerna | E1 | Efectiva | 12-15 / 12 | 7 kg | Lateral 2 | Sin superar el rango indoloro. |
+|  | ↳ | E2 | Efectiva | 12-15 / 12 | 7 kg |  |  |
+|  | ↳ | E3 | Efectiva | 12-15 / 12 | 7 kg |  |  |
+| 7 | Flexion de tríceps con polea | E1 | Efectiva | 10-15 / 12 | 21 kg | Tríceps 3 | Codos junto al torso. |
+|  | ↳ | E2 | Efectiva | 10-15 / 12 | 21 kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 15 | 15 kg |  |  |
+| 8 | Face pull muy liviano | E1 | Efectiva | 12-15 / 12 | 21 kg | Posterior 2 | No convertirlo en un tirón pesado. |
+|  | ↳ | E2 | Efectiva | 12-15 / 12 | 21 kg |  |  |
+|  | ↳ | E3 | Efectiva | 12-15 / 12 | 21 kg |  |  |
 
 **Total:** 19 series efectivas, o 17 si se elimina el ejercicio de pecho. Duración objetivo: 60-75 minutos.
+
+
+## Jueves - Upper C
+
+| Orden | Ejercicio | Serie | Tipo de serie | Repeticiones (objetivo / realizadas) | Peso utilizado | Grupo contabilizado | Observaciones |
+|---:|---|---:|---|---:|---:|---|---|
+| 1 | Jalón al pecho neutro | A1 | Aproximación | 5 / 5 | 40 kg | Dorsales 3 | Carga moderada. |
+|  | ↳ | A2 | Aproximación | 5 /  5 | 47 kg |  |  |
+|  | ↳ | E1 | Efectiva | 10-15 /  6 | 82 kg |  |  |
+|  | ↳ | E2 | Efectiva | 10-15 /  8 | 75 kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 12 | 54 kg |  |  |
+| 2 | Remo sentado con pecho apoyado | E1 | Efectiva | 10-15 /  8 | 80 kg | Espalda alta 2 | Codos a 45-60 grados. |
+|  | ↳ | E2 | Efectiva | 10-15 /  8 | 80  kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 /  12 | 50  kg |  |  |
+| 4 | Apertura corta en polea | E1 | Efectiva | 12-15 / 12 | 11 kg | Pecho 4 | Sin estiramiento profundo. |
+|  | ↳ | E2 | Efectiva | 12-15 / 12 | 11 kg |  |  |
+|  | ↳ | E3 | Efectiva | 12-15 / 12 | 11 kg |  |  |
+|  | ↳ | E4 | Efectiva | 12-15 / 12 | 11 kg |  |  |
+| 5 | Curl con barra  | E1 | Efectiva | 8-12 /  8 | 30 kg | Bíceps 3 | Sin ayudarse con la espalda. |
+|  | ↳ | E2 | Efectiva | 8-12 /  8 | 30 kg |  |  |
+|  | ↳ | E3 | Efectiva | 8-12 / 12 | 22 kg |  |  |
+| 6 | Flexiones de tríceps con polea | E1 | Efectiva | 10-15 / 12 | 21 kg | Tríceps 3 | Sin dolor. |
+|  | ↳ | E2 | Efectiva | 10-15 / 12 | 21 kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 12 | 21 kg |  |  |
+| 7 | Elevación unilateral en polea | E1 | Efectiva | 15-20 / 12 | 3.7 kg | Lateral 3 | Calidad antes que carga. |
+|  | ↳ | E2 | Efectiva | 15-20 / 12 | 3.7 kg |  |  |
+|  | ↳ | E3 | Efectiva | 15-20 / 12 | 3.7 kg |  |  |
+| 7 | Apertura inversa en maquina | E1 | Efectiva | 15-20 / 12 | 42 kg | deltoide posterior 3 | Calidad antes que carga. |
+|  | ↳ | E2 | Efectiva | 15-20 / 12 | 42 kg |  |  |
+|  | ↳ | E3 | Efectiva | 15-20 / 12 | 42 kg |  |  |
+| 8 | Crunch en máquina | E1 | Efectiva | 10-15 / ___ | ___ kg | Abdominales 4 | Controlado. |
+|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
+|  | ↳ | E4 | Efectiva | 10-15 / ___ | ___ kg |  |  |
+
+**Total:** 22 series efectivas más 2 correctivas. Duración objetivo: 70-85 minutos.
+
 
 ## Sábado - Piernas
 
 | Orden | Ejercicio | Serie | Tipo de serie | Repeticiones (objetivo / realizadas) | Peso utilizado | Grupo contabilizado | Observaciones |
 |---:|---|---:|---|---:|---:|---|---|
-| 1 | Sentadilla hack | A1 | Aproximación | — / ___ | ___ kg | Cuádriceps 4; glúteos indirectos | Dos o tres aproximaciones antes. |
-|  | ↳ | A2 | Aproximación | — / ___ | ___ kg |  |  |
-|  | ↳ | A3 (opcional) | Aproximación | — / ___ | ___ kg |  |  |
-|  | ↳ | E1 | Efectiva | 6-10 / ___ | ___ kg |  |  |
-|  | ↳ | E2 | Efectiva | 6-10 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 6-10 / ___ | ___ kg |  |  |
-|  | ↳ | E4 | Efectiva | 6-10 / ___ | ___ kg |  |  |
-| 2 | Prensa | E1 | Efectiva | 10-15 / ___ | ___ kg | Cuádriceps 3; glúteos indirectos | Recorrido controlado. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-| 3 | Extensión de cuádriceps | E1 | Efectiva | 12-15 / ___ | ___ kg | Cuádriceps 3 | Última serie opcional si hay fatiga del fútbol. |
-|  | ↳ | E2 | Efectiva | 12-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 12-15 / ___ | ___ kg |  |  |
-| 4 | Peso muerto rumano con mancuernas | E1 | Efectiva | 8-12 / ___ | ___ kg | Isquios 4; glúteos 4 | Straps si el agarre carga el hombro. |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-|  | ↳ | E4 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-| 5 | Curl femoral sentado o acostado | E1 | Efectiva | 10-15 / ___ | ___ kg | Isquios 4 | Controlar la fase excéntrica. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E4 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-| 6 | Gemelos en prensa | E1 | Efectiva | 10-15 / ___ | ___ kg | Gemelos 4 | Pausa abajo y arriba. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E4 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-| 7 | Gemelos de pie o sentado | E1 | Efectiva | 12-20 / ___ | ___ kg | Gemelos 4 | Sin rebotes. |
-|  | ↳ | E2 | Efectiva | 12-20 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 12-20 / ___ | ___ kg |  |  |
-|  | ↳ | E4 | Efectiva | 12-20 / ___ | ___ kg |  |  |
-| 8 | Crunch en máquina o polea | E1 | Efectiva | 10-15 / ___ | ___ kg | Abdominales 4 | Sin tirar con los brazos. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E4 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-
-Los compuestos aportan a más de un grupo, por eso no se suman como si fueran ejercicios adicionales. Si el partido del lunes fue muy exigente, hacé 3 series de hack, 2 de prensa, 3 de rumano y 3 de curl: esa reducción es preferible a entrenar fatigado.
+| 1 | Sentadilla hack | A1 | Aproximación | 5 / 5 | 40 kg | Cuádriceps 4; glúteos indirectos | Dos  aproximaciones antes. |
+|  | ↳ | A2 | Aproximación | 5 / 5 | 60 kg |  |  |
+|  | ↳ | E1 | Efectiva | 6-10 /  8 | 140 kg |  |  |
+|  | ↳ | E2 | Efectiva | 6-10 /  8 | 140 kg |  |  |
+|  | ↳ | E3 | Efectiva | 6-10 / 12 | 100 kg |  |  |
+|  | ↳ | E3 | Efectiva | 6-10 / 12 | 100 kg |  |  |
+| 2 | Prensa | E1 | Efectiva | 10-15 / 12 | 260 kg | Cuádriceps 3; glúteos indirectos | Recorrido controlado. |
+|  | ↳ | E2 | Efectiva | 10-15 / 12 | 260  kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 12 | 260  kg |  |  |
+| 3 | Peso muerto rumano con mancuernas | E1 | Efectiva | 8-12 / 10 | 20 kg | Isquios 4; glúteos 4 | Straps si el agarre carga el hombro. |
+|  | ↳ | E2 | Efectiva | 8-12 / 10 | 20 kg |  |  |
+|  | ↳ | E3 | Efectiva | 8-12 / 10 | 20 kg |  |  |
+|  | ↳ | E3 | Efectiva | 8-12 / 10 | 20 kg |  |  |
+| 4 | Curl femoral sentado o acostado | E1 | Efectiva | 10-15 / 10 | 57 kg | Isquios 4 | Controlar la fase excéntrica. |
+|  | ↳ | E2 | Efectiva | 10-15 / 10 | 57 kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 10 | 57 kg |  |  |
+|  | ↳ | E4 | Efectiva | 10-15 / 10 | 57 kg |  |  |
+| 5 | Extensión de cuádriceps | E1 | Efectiva | 12-15 / 12 | 87 kg | Cuádriceps 3 | Última serie opcional si hay fatiga del fútbol. |
+|  | ↳ | E2 | Efectiva | 12-15 / 12 | 87 kg |  |  |
+|  | ↳ | E3 | Efectiva | 12-15 / 12 | 87 kg |  |  |
+| 6 | Gemelos en prensa | E1 | Efectiva | 10-15 / 15 | 162 kg | Gemelos 4 | Pausa abajo y arriba. |
+|  | ↳ | E2 | Efectiva | 10-15 / 15 | 162 kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 15 | 162 kg |  |  |
+|  | ↳ | E4 | Efectiva | 10-15 / 15 | 162 kg |  |  |
+| 7 | Rueda abdominal | E1 | Efectiva | 12-20 / 12 | 0 kg | Abdominales 4 | Sin rebotes. |
+|  | ↳ | E2 | Efectiva | 12-20 / 12 | 0 kg |  |  |
+|  | ↳ | E3 | Efectiva | 12-20 / 12 | 0 kg |  |  |
+| 8 | Giro en Pie | E1 | Efectiva | 10-15 / 12 | 11 kg | Abdominales 4 | Sin tirar con los brazos. |
+|  | ↳ | E2 | Efectiva | 10-15 / 12 | 11 kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 12 | 11 kg |  |  |
+|  | ↳ | E4 | Efectiva | 10-15 / 12 | 11 kg |  |  |
 
 **Total:** 30 series efectivas en la versión completa. Es la sesión más larga; usa descansos de 2-3 minutos en hack, prensa y rumano, y 60-90 segundos en aislamientos. Duración objetivo: 80-100 minutos.
 
-Si el rumano molesta al hombro, usa hip thrust en máquina 4 × 8-12 y conserva el curl femoral.
-
-## Domingo - Upper C
-
-| Orden | Ejercicio | Serie | Tipo de serie | Repeticiones (objetivo / realizadas) | Peso utilizado | Grupo contabilizado | Observaciones |
-|---:|---|---:|---|---:|---:|---|---|
-| 1 | Jalón al pecho neutro | A1 | Aproximación | — / ___ | ___ kg | Dorsales 3 | Carga moderada. |
-|  | ↳ | A2 | Aproximación | — / ___ | ___ kg |  |  |
-|  | ↳ | A3 (opcional) | Aproximación | — / ___ | ___ kg |  |  |
-|  | ↳ | E1 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-| 2 | Remo sentado con pecho apoyado | E1 | Efectiva | 10-15 / ___ | ___ kg | Espalda alta 2 | Codos a 45-60 grados. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-| 3 | Press de pecho en máquina con agarre neutro | E1 | Efectiva | 10-12 / ___ | ___ kg | Pecho 2 | Opcional, 3-4 RIR y recorrido corto-medio. |
-|  | ↳ | E2 | Efectiva | 10-12 / ___ | ___ kg |  |  |
-| 4 | Apertura corta en polea o peck deck | E1 | Efectiva | 12-15 / ___ | ___ kg | Pecho 2 | Sin estiramiento profundo. |
-|  | ↳ | E2 | Efectiva | 12-15 / ___ | ___ kg |  |  |
-| 5 | Elevación lateral en polea | E1 | Efectiva | 15-20 / ___ | ___ kg | Lateral 2 | Calidad antes que carga. |
-|  | ↳ | E2 | Efectiva | 15-20 / ___ | ___ kg |  |  |
-| 6 | Apertura inversa en máquina | E1 | Efectiva | 15-20 / ___ | ___ kg | Posterior 1 | Se completa el volumen semanal. |
-| 7 | Curl con barra W o polea | E1 | Efectiva | 8-12 / ___ | ___ kg | Bíceps 3 | Sin adelantar el hombro. |
-|  | ↳ | E2 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 8-12 / ___ | ___ kg |  |  |
-| 8 | Tríceps con cuerda o barra V | E1 | Efectiva | 10-15 / ___ | ___ kg | Tríceps 3 | Sin dolor. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-| 9 | Crunch en máquina | E1 | Efectiva | 10-15 / ___ | ___ kg | Abdominales 4 | Controlado. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E4 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-| 10 | Serratus wall slide o scapular push-up | E1 | Correctivo | 10-12 / ___ | ___ kg | Correctivo; no se cuenta | Solo en rango indicado. |
-|  | ↳ | E2 | Correctivo | 10-12 / ___ | ___ kg |  |  |
-
-Si el press en máquina molesta, cambialo por 2 series adicionales de apertura corta. Si también molesta la apertura, elimina esas series: cumplir una cifra semanal nunca justifica irritar el hombro.
-
-**Total:** 22 series efectivas más 2 correctivas. Duración objetivo: 70-85 minutos.
 
 ## Auditoría de volumen semanal
 
@@ -220,7 +222,3 @@ El pecho alcanza el inicio teórico solo si las cuatro variantes son indoloras. 
 5. Si completas las cuatro sesiones, progresas y recuperas durante cuatro semanas, mantené el volumen; no agregues series por inercia.
 6. Si cae el rendimiento durante dos exposiciones o no recuperas, quita 2-4 series semanales del grupo afectado.
 7. Cada 4-8 semanas, hacé una descarga si acumulas fatiga: reduce 30-50% las series y conserva cargas moderadas.
-
-## Registro mínimo
-
-Anota en cada ejercicio: carga, repeticiones, RIR, dolor durante la serie y dolor a la mañana siguiente. Revisa el registro cada domingo. El plan funciona si suben repeticiones o cargas con técnica estable, no solamente por completar todas las series.
