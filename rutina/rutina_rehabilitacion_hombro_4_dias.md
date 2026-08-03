@@ -148,10 +148,10 @@ Todo debe ser liviano, sin fatiga y sin dolor. Si tu profesional indicó otra en
 | 7 | Apertura inversa en máquina | E1 | Efectiva | 15-20 / 12 | 42 kg | Deltoide posterior 3 | Liviana, controlada y sin impulso. |
 |  | ↳ | E2 | Efectiva | 15-20 / 12 | 42 kg |  |  |
 |  | ↳ | E3 | Efectiva | 15-20 / 12 | 42 kg |  |  |
-| 8 | Crunch en máquina | E1 | Efectiva | 10-15 / ___ | ___ kg | Abdominales 4 | Controlado. |
-|  | ↳ | E2 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E3 | Efectiva | 10-15 / ___ | ___ kg |  |  |
-|  | ↳ | E4 | Efectiva | 10-15 / ___ | ___ kg |  |  |
+| 8 | Crunch en máquina | E1 | Efectiva | 10-15 / 12 | 50 kg | Abdominales 4 | Controlado. |
+|  | ↳ | E2 | Efectiva | 10-15 / 12 | 50 kg |  |  |
+|  | ↳ | E3 | Efectiva | 10-15 / 12 | 50 kg |  |  |
+|  | ↳ | E4 | Efectiva | 10-15 / 12 | 50 kg |  |  |
 
 **Total planificado:** 26 series efectivas. Hay 22 series registradas y 4 series de abdominales pendientes de completar. Duración estimada: 70-85 minutos.
 
@@ -225,18 +225,6 @@ Las repeticiones realizadas se conservaron tal como fueron cargadas. Las siguien
 - **Sábado:** sentadilla hack E3-E4 (12 frente a 6-10).
 
 Una serie fuera del rango no se corrige modificando retrospectivamente el dato real. En la próxima sesión, ajusta la carga o confirma por escrito que se cambió el rango objetivo. También faltan repeticiones y carga en las cuatro series de crunch del jueves; por eso cuentan como **planificadas**, no como completadas, hasta que se registren.
-
-## Registro mínimo
-
-Al terminar cada sesión upper, anota la respuesta del hombro para poder relacionar los síntomas con los ejercicios y las cargas:
-
-| Momento | Dolor (0-10) | Ejercicio o movimiento asociado | Cambio realizado |
-|---|---:|---|---|
-| Durante la sesión | ___ | ___ | ___ |
-| Esa noche | ___ | ___ | ___ |
-| Mañana siguiente | ___ | ___ | ___ |
-
-Registra también el RIR de las series efectivas cuando sea posible. Este seguimiento no sustituye la evaluación del profesional tratante.
 
 ## Progresión
 
