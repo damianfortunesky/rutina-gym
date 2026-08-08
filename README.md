@@ -14,7 +14,7 @@ La documentación centraliza información que antes estaba dispersa y facilita c
 |---|---|---|
 | Contexto | Perfil, objetivos, preferencias y antecedentes declarados | [Perfil y objetivos](contexto/perfil_y_objetivos.md) |
 | Documentación clínica | Indicaciones de rehabilitación e informe de resonancia magnética | [Índice clínico](contexto/README.md) |
-| Rutina | Programa de cuatro días adaptado al período de rehabilitación | [Rutina de hipertrofia optimizada](rutina/rutina_rehabilitacion_hombro_4_dias_v2.md) |
+| Rutina | Split de cuatro días actualizado tras la rehabilitación | [Split de hipertrofia post-rehabilitación](rutina/split_hipertrofia_4_dias_post_rehabilitacion.md) |
 | Dieta | Plantilla alimentaria y criterios de seguimiento | [Dieta complementaria](dieta/dieta_masa_limpia.md) |
 | Volumen y frecuencia | Referencias prácticas para distribuir las series semanales | [Volumen y frecuencia](contexto/volumen_frecuencia_hipertrofia.md) |
 
@@ -34,6 +34,7 @@ La documentación centraliza información que antes estaba dispersa y facilita c
 │   └── dieta_masa_limpia.md
 └── rutina/
     ├── README.md
+    ├── split_hipertrofia_4_dias_post_rehabilitacion.md
     ├── rutina_rehabilitacion_hombro_4_dias.md
     └── rutina_rehabilitacion_hombro_4_dias_v2.md
 ```
