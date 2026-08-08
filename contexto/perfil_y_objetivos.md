@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Este documento reúne los datos personales, objetivos, preferencias y antecedentes que dieron contexto a la [rutina de entrenamiento](../rutina/rutina_rehabilitacion_hombro_4_dias.md), la [dieta](../dieta/dieta_masa_limpia.md) y el análisis de [volumen y frecuencia](volumen_frecuencia_hipertrofia.md).
+Este documento reúne los datos personales, objetivos, preferencias y antecedentes que dan contexto al [split vigente](../rutina/split_hipertrofia_4_dias_post_rehabilitacion.md), la [dieta](../dieta/dieta_masa_limpia.md) y el análisis de [volumen y frecuencia](volumen_frecuencia_hipertrofia.md).
 
 > Este perfil es un registro personal y no reemplaza una evaluación médica, nutricional ni profesional. Las restricciones y pautas clínicas deben validarse con los profesionales tratantes y con la documentación clínica original.
 
@@ -12,7 +12,7 @@ Este documento reúne los datos personales, objetivos, preferencias y antecedent
 - Comer lo suficiente para acompañar el entrenamiento.
 - Desarrollar el máximo potencial muscular natural mediante entrenamiento de hipertrofia, sin consumir esteroides.
 - Mantener una dieta sencilla, efectiva y compatible con las preferencias personales.
-- Organizar una rutina compatible con la rehabilitación del hombro derecho.
+- Organizar una rutina posterior a la rehabilitación que mantenga la tolerancia del hombro derecho.
 
 ## Datos de referencia
 
@@ -27,11 +27,9 @@ Este documento reúne los datos personales, objetivos, preferencias y antecedent
 
 ## Hombro derecho
 
-Se registró la necesidad de cuidar el hombro derecho y evitar los ejercicios que generan dolor, en particular:
+El 8 de agosto de 2026, el usuario declaró estar completamente recuperado después de finalizar kinesiología. Este dato actualiza el estado personal registrado, pero no constituye por sí mismo una certificación de alta profesional.
 
-- press plano con barra;
-- press inclinado con barra;
-- press militar.
+Durante la rehabilitación se habían evitado el press plano con barra, el press inclinado con barra y el press militar. Ya no se registran como prohibiciones permanentes: cualquier reintroducción debe ser gradual, sin dolor y consistente con el alta del profesional tratante. Ninguna de esas variantes es indispensable para hipertrofia si una máquina o unas mancuernas resultan más cómodas.
 
 La información clínica de referencia se conserva, sin modificaciones, en los documentos de [rehabilitación indicada](rehabilitacion_indicada.pdf) e [informe de resonancia magnética](informe_rmn_hombro.pdf).
 
@@ -51,6 +49,6 @@ El esquema inicial constaba de cuatro comidas, aproximadamente a las 13:00, 17:0
 
 ## Documentos relacionados
 
-- [Rutina de hipertrofia de 4 días durante la rehabilitación del hombro](../rutina/rutina_rehabilitacion_hombro_4_dias.md)
+- [Split de hipertrofia de 4 días tras la rehabilitación](../rutina/split_hipertrofia_4_dias_post_rehabilitacion.md)
 - [Dieta complementaria para hipertrofia](../dieta/dieta_masa_limpia.md)
 - [Volumen y frecuencia para hipertrofia](volumen_frecuencia_hipertrofia.md)
